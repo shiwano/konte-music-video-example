@@ -1,0 +1,68 @@
+{
+  "kind": "comfy",
+  "workflow": "image_minimax_h3_r2i.json",
+  "inputs": {
+    "21.image": "__konte:reference:factory__",
+    "22.image": "__konte:reference:factoryWoman__",
+    "23.image": "__konte:reference:weldingTorch__",
+    "10.prompt": "subject_definitions: <Subject 1> is the aircraft factory in <Picture 1>: a silver fuselage panel and steel-blue light.\n<Subject 2> is the factory woman in a red polka-dot bandana in <Picture 2>: a hand in a tan leather work glove and a rolled navy-blue coverall sleeve.\n<Subject 3> is the welding torch in <Picture 3>.\n\nsummary: [reference generation] Close on the welding torch in the factory woman's gloved hand, a small blue flame at its tip.\n\nretention_analysis: <Subject 1> (appears in [Shot 1]): weak_reference - only the silver metal and steel-blue light carry over.\n<Subject 2> (appears in [Shot 1]): partially_preserved - her gloved hand and coverall sleeve only.\n<Subject 3> (appears in [Shot 1]): fully_preserved - the welding torch.\n\ndetailed_description: 2D-animated. Modern high-end Japanese anime game key visual: crisp thin lineart, dramatic cel shading with hard-edged shadows, strong rim light, glowing bloom, deep saturated color. [Shot 1] An insert: the factory woman in a red polka-dot bandana's tan leather glove grips the welding torch from the right, the same welding torch as in <Picture 3>: a squat brass canister body with a bent steel nozzle and black hoses, its nozzle pointing toward the riveted silver fuselage panel that fills the left half of the frame. A small soft blue flame flickers at the nozzle tip, a hand's width from the metal, casting a faint blue light on the rivets.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A",
+    "10.width": 1248,
+    "10.height": 704,
+    "10.ref_image_size": "max",
+    "11.noise_seed": "__konte:seed__",
+    "13.steps": 20,
+    "1.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "2.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "3.vae_name": "minimax_h3_video_vae_int8_convrot.safetensors",
+    "4.vae_name": "minimax_h3_audio_vae_fp32.safetensors",
+    "10.length": 5,
+    "17.batch_index": 0
+  },
+  "prunedNodes": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+  ],
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "21.image": "image1",
+    "22.image": "image2",
+    "23.image": "image3",
+    "10.prompt": "prompt",
+    "10.width": "width",
+    "10.height": "height",
+    "10.ref_image_size": "refImageSize",
+    "11.noise_seed": "seed",
+    "13.steps": "steps",
+    "1.unet_name": "unetName",
+    "2.clip_name": "clipName",
+    "3.vae_name": "vaeName",
+    "4.vae_name": "audioVaeName",
+    "10.length": "length",
+    "17.batch_index": "frameIndex"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:00:28.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "song": "v-ikQQnJ5B",
+      "look": "v-COF006oJ"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:look",
+      "feedback": [
+        {
+          "id": "fb-juSJRoPn",
+          "annotation": null,
+          "text": "ジブリには寄せたくない",
+          "displayedVariants": {
+            "reference:look": "v-COF006oJ"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    }
+  ],
+  "handoffSummary": "全カットの画調の基準にする見本画像（ルック）です。作品の一場面ではなく「この世界はこう描く」という見本で、人物はあえて顔の見えない旅人にしています。気に入った1枚を採用してください。",
+  "handoffNotes": [
+    {
+      "address": "reference:look",
+      "text": "4枚とも同じ指示から作りました。絵画的な背景、琥珀と青緑の色合い、ランタンの光は狙いどおりです。一方で、線や光の強さは Fate より柔らかく、ジブリ寄りに出ています。もっと線を鋭く、光の粒やコントラストを強く（Fate 寄りに）したい場合は、コメントでお知らせください。指示を書き直して作り直します。"
+    }
+  ]
+}

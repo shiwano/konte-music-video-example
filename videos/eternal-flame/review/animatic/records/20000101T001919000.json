@@ -1,0 +1,723 @@
+{
+  "mode": "animatic-preview",
+  "stage": "animatic",
+  "createdAt": "2000-01-01T00:19:19.000Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "start": 0,
+        "duration": 4.833333333333333,
+        "variants": {
+          "first": "v-7cmxFigf"
+        }
+      },
+      {
+        "shotId": "02",
+        "start": 4.833333333333333,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "first": "v-96YgvwxU"
+        }
+      },
+      {
+        "shotId": "03",
+        "start": 8.25,
+        "duration": 5.708333333333333,
+        "variants": {
+          "first": "v-4f0iJfaR"
+        }
+      },
+      {
+        "shotId": "04",
+        "start": 13.958333333333334,
+        "duration": 4.583333333333333,
+        "variants": {
+          "first": "v-PxEx9AJz"
+        }
+      },
+      {
+        "shotId": "05",
+        "start": 18.541666666666668,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "first": "v-taT77fNq"
+        }
+      },
+      {
+        "shotId": "06",
+        "start": 21.958333333333332,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-Cfl6Jtnq"
+        }
+      },
+      {
+        "shotId": "07",
+        "start": 24.25,
+        "duration": 4.583333333333333,
+        "variants": {
+          "first": "v-YBRI5BlD"
+        }
+      },
+      {
+        "shotId": "08",
+        "start": 28.833333333333332,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "first": "v-0iS1WovZ"
+        }
+      },
+      {
+        "shotId": "09",
+        "start": 32.25,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-30Ck3NVm"
+        }
+      },
+      {
+        "shotId": "10",
+        "start": 34.541666666666664,
+        "duration": 4.583333333333333,
+        "variants": {
+          "first": "v-Xgo9mOA0"
+        }
+      },
+      {
+        "shotId": "11",
+        "start": 39.125,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-HZmhllYm"
+        }
+      },
+      {
+        "shotId": "12",
+        "start": 41.416666666666664,
+        "duration": 1.125,
+        "variants": {
+          "first": "v-s65NwzMs"
+        }
+      },
+      {
+        "shotId": "13",
+        "start": 42.541666666666664,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-no8mh1jb"
+        }
+      },
+      {
+        "shotId": "14",
+        "start": 44.833333333333336,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "first": "v-kUKbfk0M"
+        }
+      },
+      {
+        "shotId": "15",
+        "start": 48.25,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-EFqwowLr"
+        }
+      },
+      {
+        "shotId": "16",
+        "start": 49.416666666666664,
+        "duration": 4.541666666666667,
+        "variants": {
+          "first": "v-swVBq6Da"
+        }
+      },
+      {
+        "shotId": "17",
+        "start": 53.958333333333336,
+        "duration": 4.583333333333333,
+        "variants": {
+          "first": "v-F37BEuzF"
+        }
+      },
+      {
+        "shotId": "18",
+        "start": 58.541666666666664,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "first": "v-yQdgULAg"
+        }
+      },
+      {
+        "shotId": "19",
+        "start": 61.958333333333336,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-ZM4iKNDj"
+        }
+      },
+      {
+        "shotId": "20",
+        "start": 64.25,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-2q4Thfm8"
+        }
+      },
+      {
+        "shotId": "21",
+        "start": 65.41666666666667,
+        "duration": 2.25,
+        "variants": {
+          "first": "v-HOBObUeM"
+        }
+      },
+      {
+        "shotId": "22",
+        "start": 67.66666666666667,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-VF5YkRji"
+        }
+      },
+      {
+        "shotId": "23",
+        "start": 68.83333333333333,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-nAH4dIWB"
+        }
+      },
+      {
+        "shotId": "24",
+        "start": 71.125,
+        "duration": 1.125,
+        "variants": {
+          "first": "v-H6LS5BTo"
+        }
+      },
+      {
+        "shotId": "25",
+        "start": 72.25,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-DXk7Oo58"
+        }
+      },
+      {
+        "shotId": "26",
+        "start": 73.41666666666667,
+        "duration": 2.25,
+        "variants": {
+          "first": "v-tUOGO6z9"
+        }
+      },
+      {
+        "shotId": "27",
+        "start": 75.66666666666667,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-HWLWZSci"
+        }
+      },
+      {
+        "shotId": "28",
+        "start": 76.83333333333333,
+        "duration": 1.125,
+        "variants": {
+          "first": "v-SD8fgPdW"
+        }
+      },
+      {
+        "shotId": "29",
+        "start": 77.95833333333333,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-J9Hryjzd"
+        }
+      },
+      {
+        "shotId": "30",
+        "start": 80.25,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-s6DDiDbz"
+        }
+      },
+      {
+        "shotId": "31",
+        "start": 81.41666666666667,
+        "duration": 2.25,
+        "variants": {
+          "first": "v-Jh9Vmi3R"
+        }
+      },
+      {
+        "shotId": "32",
+        "start": 83.66666666666667,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-K2GFSZBr"
+        }
+      },
+      {
+        "shotId": "33",
+        "start": 84.83333333333333,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-ANCvCohn"
+        }
+      },
+      {
+        "shotId": "34",
+        "start": 87.125,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "first": "v-LKABCE3o"
+        }
+      },
+      {
+        "shotId": "35",
+        "start": 90.54166666666667,
+        "duration": 4.583333333333333,
+        "variants": {
+          "first": "v-YdpjMVEO"
+        }
+      },
+      {
+        "shotId": "36",
+        "start": 95.125,
+        "duration": 1.125,
+        "variants": {
+          "first": "v-xNVeS09z"
+        }
+      },
+      {
+        "shotId": "37",
+        "start": 96.25,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "first": "v-OyDpgdhZ"
+        }
+      },
+      {
+        "shotId": "38",
+        "start": 99.66666666666667,
+        "duration": 5.75,
+        "variants": {
+          "first": "v-UhROiJK3"
+        }
+      },
+      {
+        "shotId": "39",
+        "start": 105.41666666666667,
+        "duration": 4.541666666666667,
+        "variants": {
+          "first": "v-Y9VM7Nyf"
+        }
+      },
+      {
+        "shotId": "40",
+        "start": 109.95833333333333,
+        "duration": 3.4583333333333335,
+        "variants": {
+          "first": "v-VRgTRQhB"
+        }
+      },
+      {
+        "shotId": "41",
+        "start": 113.41666666666667,
+        "duration": 5.708333333333333,
+        "variants": {
+          "first": "v-cKYsWWh3"
+        }
+      },
+      {
+        "shotId": "42",
+        "start": 119.125,
+        "duration": 4.541666666666667,
+        "variants": {
+          "first": "v-b3Hs1yer"
+        }
+      },
+      {
+        "shotId": "43",
+        "start": 123.66666666666667,
+        "duration": 4.583333333333333,
+        "variants": {
+          "first": "v-MoVtgdAY"
+        }
+      },
+      {
+        "shotId": "44",
+        "start": 128.25,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-RgXf58mC"
+        }
+      },
+      {
+        "shotId": "45",
+        "start": 130.54166666666666,
+        "duration": 1.125,
+        "variants": {
+          "first": "v-Yu4jM71i"
+        }
+      },
+      {
+        "shotId": "46",
+        "start": 131.66666666666666,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-iDLmKfri"
+        }
+      },
+      {
+        "shotId": "47",
+        "start": 132.83333333333334,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-nJjLDBKm"
+        }
+      },
+      {
+        "shotId": "48",
+        "start": 135.125,
+        "duration": 1.125,
+        "variants": {
+          "first": "v-WO2DckQx"
+        }
+      },
+      {
+        "shotId": "49",
+        "start": 136.25,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-iFg0d1jP"
+        }
+      },
+      {
+        "shotId": "50",
+        "start": 137.41666666666666,
+        "duration": 2.25,
+        "variants": {
+          "first": "v-QygpDLLK"
+        }
+      },
+      {
+        "shotId": "51",
+        "start": 139.66666666666666,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-3IMOi8AM"
+        }
+      },
+      {
+        "shotId": "52",
+        "start": 141.95833333333334,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "first": "v-7215f3Sc"
+        }
+      },
+      {
+        "shotId": "53",
+        "start": 143.125,
+        "duration": 4.541666666666667,
+        "variants": {
+          "first": "v-6jfWjHuo"
+        }
+      },
+      {
+        "shotId": "54",
+        "start": 147.66666666666666,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-0fjlPYrJ"
+        }
+      },
+      {
+        "shotId": "55",
+        "start": 149.95833333333334,
+        "duration": 3.4583333333333335,
+        "variants": {
+          "first": "v-J2EnBRpu"
+        }
+      },
+      {
+        "shotId": "56",
+        "start": 153.41666666666666,
+        "duration": 4.541666666666667,
+        "variants": {
+          "first": "v-l7lObS5z"
+        }
+      },
+      {
+        "shotId": "57",
+        "start": 157.95833333333334,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-UbPODDrN"
+        }
+      },
+      {
+        "shotId": "58",
+        "start": 160.25,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "first": "v-fXRXVChb"
+        }
+      },
+      {
+        "shotId": "59",
+        "start": 162.54166666666666,
+        "duration": 1.125,
+        "variants": {
+          "first": "v-hDJ842Ey"
+        }
+      },
+      {
+        "shotId": "60",
+        "start": 163.66666666666666,
+        "duration": 4.583333333333333,
+        "variants": {
+          "first": "v-xlMAbmi8"
+        }
+      },
+      {
+        "shotId": "61",
+        "start": 168.25,
+        "duration": 5.708333333333333,
+        "variants": {
+          "first": "v-I4hn5nkk"
+        }
+      }
+    ],
+    "timeline": {},
+    "contentHashes": {
+      "animatic:shot.01#composition": "463df4afc7f671d892352e7d351358269d806c3ac968d6a603d9a91d22b56a85",
+      "animatic:shot.02#composition": "513e9741cad622f1a1cfbf71ffc77e0b9220245a88254b2959b7fd20b7feca93",
+      "animatic:shot.03#composition": "5156bc008e1c12af1f5e1070d21974ed1dfb210757acbd7ec0b8475edc8562ff",
+      "animatic:shot.04#composition": "8893fb755d6db1b3802e8a492ddd0683c9cdfbc4cafbf2ce62da990df240df13",
+      "animatic:shot.05#composition": "4eb76d1e0e760954c65f9fadf1331277720fe840e4356d48c256035846d69920",
+      "animatic:shot.06#composition": "ad293e568b943d185aa657646477514a03fb6b70bb893feb06e08721321f45f1",
+      "animatic:shot.07#composition": "1ec3fd3ee5bbc8f9d567eee9820097704213b5c673d99f6ae55e60788bf313d7",
+      "animatic:shot.08#composition": "55bc8592dad000f307c5e543c5e07bf794e1627cd781e2c26af125c2b6e80fa0",
+      "animatic:shot.09#composition": "eaaa513d6d9436fd2de5c47c8d64a5e2b1ffe9f6813312a286f57fa59c1d1e60",
+      "animatic:shot.10#composition": "31a19c75d9f502d5a88f0dc170a9854f43e7b83bf011294e54dd228b51eb0259",
+      "animatic:shot.11#composition": "93041c063ddeecc06f38c81b2e09a84b8a4f05c9f66664c4e6b98697aa6c9464",
+      "animatic:shot.12#composition": "712d4fccc48788231daf76293f27a2dfdfc6ae001757b59050df7185dee76458",
+      "animatic:shot.13#composition": "8bf3d7b7dd63fe6d766ed10015ae99b763759c963b1e7646fe88a433a73d2a4b",
+      "animatic:shot.14#composition": "1a4fef90590d4d36aa4e117dcb24d2bd3588951ca4e6ea23d6b93ed8768b5e3c",
+      "animatic:shot.15#composition": "1a05ec85ebc6be72ea0287f6b00e70d8aba8bbe009d84c0c44f9c3e520283b09",
+      "animatic:shot.16#composition": "07a6f011ca5c6e8c4da5fc3cfba548b3dd0c48c15af37f5ce520f46f119029ec",
+      "animatic:shot.17#composition": "a53d0dac9070c5e7ebfe28eba9fe13c578cdadb719614008e7dbec7fdb98cf79",
+      "animatic:shot.18#composition": "9fdde1287d4cdb9d9da71baa82a5c86bcdc9d50db35449d467b65988da053c27",
+      "animatic:shot.19#composition": "4a97cdbd6ae04bcb4540f7f34d3a6abd245c6d4f3efc5bae048dfb77013c318e",
+      "animatic:shot.20#composition": "26a3f818992eeb790dc11c9d145da6c8832ddbfb0fcca63db8916d15efcc2168",
+      "animatic:shot.21#composition": "d15d8a9af340088c7b5cdc9b4192cac1018dacf919d027bacb59dca2839341d8",
+      "animatic:shot.22#composition": "4bff25375a94b92c8574e70f101a6d3f86d3b6cd76710993c2c4c2f41cc48c5d",
+      "animatic:shot.23#composition": "391840c391fa955c23e7491c005d12d8fb509d60cff77b53980de93b2efcb445",
+      "animatic:shot.24#composition": "420f92860f7ca1c9130398b09ea1364a44a86f185ccfbf5eed70253b584c7488",
+      "animatic:shot.25#composition": "290f3a6f7a564bbe14631d43aaf9e1d4cc6a1fdc54b5ad34a1e31c84c472698b",
+      "animatic:shot.26#composition": "5c70015d874dfa4465a684e29b1e008185cac7f629e796f99a147e96605f7534",
+      "animatic:shot.27#composition": "e60bbbcfde0a08669d7d2856bbe6c2fee526071dc3ff8a6477bc28e24df4073b",
+      "animatic:shot.28#composition": "6d9200abaf8f02c6cf355bd8c841b0b929807c0e367fab5193a7d9c27f76656f",
+      "animatic:shot.29#composition": "352b7483abff0ed128b8d77d12c7ad35e05d5dd049f039e1c1d66d48b2a72b1d",
+      "animatic:shot.30#composition": "6b8b49829999aed2c8348325f8d009ae58c20f39520fa4abf47305a0a5b1cb77",
+      "animatic:shot.31#composition": "38192f4c751fc4bfcd083f215a8e55b7d8f04475fe48d3476f0bf02c1fa7ed54",
+      "animatic:shot.32#composition": "8eda5c633d41312494e590a014b13d6a9fc0b0c64b1256179d7394dd011cadba",
+      "animatic:shot.33#composition": "1f6e29d3a11b33c9335a9f9b0ab5a3efe88ad3d92bc13ccc4f8ffa32d912acbd",
+      "animatic:shot.34#composition": "8c55fe1538c8ad50794a2051fc88b4d1616fff946f862061d19c5bb993e79d36",
+      "animatic:shot.35#composition": "343711eb2d94b1a323bf71055505f13488e1b2816f2bf899a25b8e822e11b392",
+      "animatic:shot.36#composition": "885826ac62255cd019ca4fec2b07894e760dfd29b3faa6fdd86e17b9456dd3d6",
+      "animatic:shot.37#composition": "95ba6ffdc974c72665c796cfa6fa6173c6853383cb5e448dbe236f3499fa0b8c",
+      "animatic:shot.38#composition": "d3e7ae74b68ac4a6a2e5752c5c28f250d3ff5abdfc109b3583838f2ce537f4ad",
+      "animatic:shot.39#composition": "8917adfc12562ec3137abf6c04d1f0889e6435c3dea2197ad083484718b8f657",
+      "animatic:shot.40#composition": "502ecfbac902e61b586a9c294c29c2b1bf03fa8ef294cd80148470d870fd8018",
+      "animatic:shot.41#composition": "596509be5a97b587f3fb97bd6dab61a5bfab2d1f67217613c421425a0ca4fa02",
+      "animatic:shot.42#composition": "aa008dbf3016681f86a802438fa2bd594384e33de40e22487f438277f95c3564",
+      "animatic:shot.43#composition": "d841d9b42d022b2dc469b372dbbb66271cf4b7c12e7272f7122a08d1fc197cb6",
+      "animatic:shot.44#composition": "671aee41ca8a02901ccc0789d44640b15b5ebe95fb7b1aa61f896fdb1b48cffe",
+      "animatic:shot.45#composition": "2bdeebfa8dbabd88193adb24a30979fd6316ea3af788b731f0b063c02ab016c6",
+      "animatic:shot.46#composition": "948eb8be8136e4059537bf7dbf8a483c2b68d52cf449251aef77c026b3f44c87",
+      "animatic:shot.47#composition": "bdedbfd9fcf2d61552d34aa40dfe5a70d146c25f222cc8d7db02731702ee0ec6",
+      "animatic:shot.48#composition": "68aa5908b84bd17ba81bc84e97dad28d41f48bc6314ea1538377ca33f0584556",
+      "animatic:shot.49#composition": "51d77fe49f603b0959514cb09ee9d88bd697112b624a1fdb4b1d1e6a745f6876",
+      "animatic:shot.50#composition": "a49bf98c6db2653ced7e401bd215d7a9185a20791b798571889947eb73a1c538",
+      "animatic:shot.51#composition": "541f1b443a55833457334083dd7a6da1e224a87d8dd7501c82fb4b69203a351b",
+      "animatic:shot.52#composition": "790a7a2d48a51a02b1fe73efd174c54fb1f6589473140275c02917bc42cb5a40",
+      "animatic:shot.53#composition": "c0cdffa627c4ced40a029ca674e18c92fdd987871de6d4faa0454be460f9c295",
+      "animatic:shot.54#composition": "c20dfb259893bb2212d7847558ebe492a42134955412d50eadf4707bf4e2eef8",
+      "animatic:shot.55#composition": "5578acb1582f882bc3b4f91949a9e569944c763d4364aa6e77c7dac84a9ef253",
+      "animatic:shot.56#composition": "e9b30396d7de90fe475b17fa295fb78d8268440b985d6ff751a257f7c54899b9",
+      "animatic:shot.57#composition": "5ddc15d02760b8dfc11a7be1b005652e375f4496ab6e9dbefa842594cf01fcb7",
+      "animatic:shot.58#composition": "7881beee6e19a41dba025ae0aa7dc3a6ae6788eb2fdd301b30f6faafce768601",
+      "animatic:shot.59#composition": "32506f405f2730f98ddc05bb915477b1dae853deb9b049971ff4782acc055b0f",
+      "animatic:shot.60#composition": "b247a531ff7af4ce30e87c4f3b7ecbfeaa8f2ec8d1cdbc58e58186456c8e2d2e",
+      "animatic:shot.61#composition": "c58b70f6e9201872882d287842aedea65cffe873dffb587c61112be6e70eb981",
+      "animatic:shot.01#stem": "07c4c578e48ace578d7d7f5296451a408855d0dfe3d33f05bf3ac21ff5d362bd",
+      "animatic:shot.01#songStem": "9aea5fdaa6b28d7cc3623e7f424e0985dee4bb7690f2ead65aee975be1b9c061",
+      "animatic:shot.02#stem": "150b559577f6a91ec54118ad9a0d91e59e1767f24224d7decd413dac359d4cfa",
+      "animatic:shot.02#songStem": "75b5b846a984953aca9d34167cc0dc5e7c1f099d8e21fe9d73793fcb1e35bf65",
+      "animatic:shot.03#stem": "0e0d13429f6c5baed6f4179d60835691f3f662153554406d9da8502df14a5e8a",
+      "animatic:shot.03#songStem": "c7fa6807fa3e4db1010f7d2045e3d3b40fa08e9ddac7406293c10272a2fd439c",
+      "animatic:shot.04#stem": "0d7f6b82d01e58c6f05da250dbbb636fd7394ba1a973ed16146e48cb4b0cd713",
+      "animatic:shot.04#songStem": "a839d1add1774e4324f5f3ea78758c42a578a57361dc2ca840e118ee28f1d993",
+      "animatic:shot.05#stem": "24243fbb47e1148b9e6e93057088235670a42ec4d4f9b493d2e05908811e9fa8",
+      "animatic:shot.05#songStem": "be2ef5c7579f68646874b5c0317a7ba685d76a7673855cdebf5c71657600bbf5",
+      "animatic:shot.06#stem": "44c80af14fa8d8ec49fbe617e629bf3f0e3c050ce896162d931a26f810ddaef0",
+      "animatic:shot.06#songStem": "97ebc9f95b318ceadda34d5ef70c3a6840cac79d53ac909453663f61442266db",
+      "animatic:shot.07#stem": "b8aeec3ec3c65f78c0e4e37f1b6c6c2aa3c7013831e71f03e2a3a99bd6932b6c",
+      "animatic:shot.07#songStem": "42066edca76fe6302770fcba5e688576719ed61ee9a1b8c0ba77c863cac862eb",
+      "animatic:shot.08#stem": "c7db67f27baeab4c8d120a2c61e7b835e72f357c2ceb8a5f7f3d50f482c2d5e0",
+      "animatic:shot.08#songStem": "b630dc9a06ce90e5faa238b59f3e1edf8efa3a6825e12f1a3e6dac1f11eee990",
+      "animatic:shot.09#stem": "803cecd227b4c231c47ead7092ad77259771794c54966640a651f648bba816c2",
+      "animatic:shot.09#songStem": "43d9bed37b06dcea4424a7e569732ef9395b3c0b849a89b14842b5b94cd97da5",
+      "animatic:shot.10#stem": "8cbc31edde122c463db4d54893f712e72c74080bdc9e5e26a676697366240e90",
+      "animatic:shot.10#songStem": "8cd910137438de2be9cbdc16d0cea5cf3a3eb9121b3ce2bdb5df493689d19615",
+      "animatic:shot.11#stem": "163198cc6322282e554091ac8935f7d35691ad5f0e0af802141a0e7c89810816",
+      "animatic:shot.11#songStem": "9cda542f6db1db531fd891385f077f3479919d646cfaeae21d77a5753bfb6394",
+      "animatic:shot.12#stem": "baf3cf3bfcb18443678c25b3dd345e013cb0cf860b8cc6b729686eef539cda5e",
+      "animatic:shot.12#songStem": "0b59942a007f99b469d04d6910c7a24ce960cd34429698c190f34c6f9bb2b27a",
+      "animatic:shot.13#stem": "9a5f21e7047b8c25d9756f3b58be8f9f4fbcd840439bef39ed8e91f6e3cb9319",
+      "animatic:shot.13#songStem": "62b504aefde5b97e4c62df37888dee50d568a6d79d2bfc75e55ae06b619acaab",
+      "animatic:shot.14#stem": "ec2819f1b40af71bdf9e15af3c4ca59cc66f91db65563b1a2e9cec486596d409",
+      "animatic:shot.14#songStem": "03da809d86e086f8346350297d77f21305cbe2b7edd9feee65d351bcc0549142",
+      "animatic:shot.15#stem": "6576468916715d6610fb156d5d6db9988491a773f0ab5f17eded7116d409619c",
+      "animatic:shot.15#songStem": "3395de86c173f3a071bc26766cfd4d152ce4cf631078d55bab396511164b56f5",
+      "animatic:shot.16#stem": "a007621d424774c18f2eb2d0c0dac5bf2c761fbdd3267589a055bfa73b42e43d",
+      "animatic:shot.16#songStem": "bb54e69d5582bcb83024c9e98b9b04c116dde72fe13c5f851692eaf5e552f686",
+      "animatic:shot.17#stem": "0396c4c96b01c239a7ef9680b9040a6d7aba6b1e01a20f5913c031d9c616bae3",
+      "animatic:shot.17#songStem": "8f16c63637a048ab2a758f7ac26c77bff4499f4934b6e33dea4e08b751a847c9",
+      "animatic:shot.18#stem": "16457cd8d7f620d6ad3326ddb4f87e5d8dd2e2e08777c81227c18dd6f57b1c78",
+      "animatic:shot.18#songStem": "bb7ec2e1f464b658a5f5214c15c39b1513bc3f3f78e7f2018dbfa4292d6dee38",
+      "animatic:shot.19#stem": "f76aefa2e751dcc815aa766dad3b187de3547707d4cccf22e795ca8da1db36dc",
+      "animatic:shot.19#songStem": "3eac37cebd6fa291f509af03f069feb1002c60f5c46822a12fa6ba36ab5780c9",
+      "animatic:shot.20#stem": "d4282e95dbb01ee5a7cdd3ce7b46d84cde3ccb9056dc23955758ef2d162b5599",
+      "animatic:shot.20#songStem": "5a3a50a2e425b9cc44070ae356b629b6219440318049563efc2ba8cad7cce5ae",
+      "animatic:shot.21#stem": "402b4644695d7f920b88fa806476f592f52e57b5424492ccc0d50246f342c590",
+      "animatic:shot.21#songStem": "86bedaf3c345f04e00f3be5efc83116fbcce0cbee6ae6ba9872f3afbda70dfda",
+      "animatic:shot.22#stem": "0f2fd63e89048f1b470a3beaba6f0231dbbb56979b256a016f1f67e60bf64e7e",
+      "animatic:shot.22#songStem": "45ba5f7d8bd5c2d5d2de9ce89c94dbf4b5ddd907bc359852dc5088db0c104ec4",
+      "animatic:shot.23#stem": "b30f8e6c3fb12758557b81925209bed0b44b2bbb92640ff28d7f8e42c0da0513",
+      "animatic:shot.23#songStem": "43d8cf6d11578f835ba8fb940ed3d56e76866a0a1e53f9a208840baa45bc371f",
+      "animatic:shot.24#stem": "97364d1009c718ec55178f006f30bd637fa1d1a47beccb97b637ce44891cfff5",
+      "animatic:shot.24#songStem": "324464044ac8494bcde98c974530a4059a182c7e3338a2fde08dee8cf6d95a18",
+      "animatic:shot.25#stem": "2df361fd1016c0f9ee2943170182bcc802d0747e493f388e4c90cf6575c79e7c",
+      "animatic:shot.25#songStem": "7ed2cdfba7b4a75b850bd232a97486704395f185cd9cc1f7ef2f8a4633d88a10",
+      "animatic:shot.26#stem": "419043e7e4545bcec7bd04f99d0c8fe23b44d260c319dd281c776afd5707eea1",
+      "animatic:shot.26#songStem": "86f6d2f2c30f60ff4703731940df8c327862e08ed27bd1667aee84e76b3f60d0",
+      "animatic:shot.27#stem": "8140509b83319b2e8a8761dcaf9727ebb0f129481fb104edbdce326340d62f4b",
+      "animatic:shot.27#songStem": "7f2b0d3de1a9e764bd5c6dc165460f16dc231de33f95ad98054621b0f1c63627",
+      "animatic:shot.28#stem": "78b0cf68446e1002fbe5d15908bc239185f6e3914dd4babaa4f5ff314750307d",
+      "animatic:shot.28#songStem": "b3a64a676816837540d88cfeaa46cd3c97662052fb858e7357d6e7723af299a1",
+      "animatic:shot.29#stem": "b5b616d5336c1c0e09b0609be0df8bf95a4afbf691d1b572a22acefc415bab9f",
+      "animatic:shot.29#songStem": "33d8742d74cda7d96276f99156d998d04cb9b618ac5facafa668b438aba2e5df",
+      "animatic:shot.30#stem": "4dc5e89434f90f04600de887debd0ee33ac9f50f318816a719c3373d17b44aff",
+      "animatic:shot.30#songStem": "1908ce67bc37a7032cb6ef56311a49606847cff3b168fc0fc9ad3bf095220f25",
+      "animatic:shot.31#stem": "49b8504817f59c4d6a8844fed2906684166d8c25aa4642aff2f468f6292a1267",
+      "animatic:shot.31#songStem": "4282cdc5559843c84bfd69b31d658085260f9d0bcd1c69296301f794b5503b01",
+      "animatic:shot.32#stem": "1b87f1e15ee43bb6c9936bebd8dd16979b5677217ec8ab6b0265e545af05d17a",
+      "animatic:shot.32#songStem": "1e14245d6a582c9f52baa1a98de5897809d484194ceceb7007d5ef375dcfbf34",
+      "animatic:shot.33#stem": "bb2cbbe853a9ffef78569c3977939a2c412dd6d7458dc593d7d11b8d3fe17776",
+      "animatic:shot.33#songStem": "bec25a27d2345b30b6a7e40e82a3f8d283a0807f02b0263502ca6c7a5e73c003",
+      "animatic:shot.34#stem": "24bc6509e908cfa2b0f42c969b2f592b1a827bff82347865ca2da9d2408b17fe",
+      "animatic:shot.34#songStem": "24b5f18acb5207b50d3fb67f8c2f04fa019f3eadb0c9c3d19682632fdd985fe0",
+      "animatic:shot.35#stem": "27b2a802230dbd1c4b0903bb494821a9bbcc9ad39432ab6371ccfcaece29b91d",
+      "animatic:shot.35#songStem": "ec113dbc7cef92efabe9007495a26a453616dc6e68e6fcf9e651cdb45542433d",
+      "animatic:shot.36#stem": "76e8feb9835d7c572d81e3a143ebb13d4d963865735b77848f123ae6cc78cd02",
+      "animatic:shot.36#songStem": "41ef70237eefa46a479d3e5776ab2dab6fb12b4ccafd1bc6be8bb671357224ab",
+      "animatic:shot.37#stem": "53a43d503e1d6e16b762b39c4a7b415b0af7a39a8aa4c661cdc08815058084d2",
+      "animatic:shot.37#songStem": "d27112848e06cc623fa7a7804c9bfb9802067d793483d4e2934b8acd5fec3c9b",
+      "animatic:shot.38#stem": "5c7066a5bfb304e801de64b75bba4c813b703620c6e3f262744ac9745a87b041",
+      "animatic:shot.38#songStem": "585d8b92c90b2c74c8529e9f93f42b37d1763fea1873bb1ee073c8f88b41af86",
+      "animatic:shot.39#stem": "aae9c21859c90eb5195daec3b39acf6eb126b19c356a13aa61c27ccb3f9e0077",
+      "animatic:shot.39#songStem": "ba6dd59e6a8614397ba98715d53b7205cc0da4a24fffde3424f867647e382967",
+      "animatic:shot.40#stem": "b4db7ab6e5a826eb9530960112d13f426ff78dba18f126a0590af8d73817623f",
+      "animatic:shot.40#songStem": "6a76c1cc4b3f762b3ea53043423a73c40617c4171ae9f6638564fc5761c32e9f",
+      "animatic:shot.41#stem": "ed5209bc8968b7bc2e8f5c0adb8db2fd732e0bbc9d7af08de429f0d14155d07d",
+      "animatic:shot.41#songStem": "506d403bf0bc61c18e6edaa545d02c2f666c963eb8c25976e3b0aa7abc2817a8",
+      "animatic:shot.42#stem": "1c881b637e14907abc8a4d9813eace094b9a3bf9c8f5a9e95cee22e52e157697",
+      "animatic:shot.42#songStem": "db5d3b117167e45065a7506afe62887f355f0db439219feed70983211ee142c1",
+      "animatic:shot.43#stem": "946f3a86ef8df3f53be83ab85f3eaa58270cdbd250065c64ac3b4996210881a2",
+      "animatic:shot.43#songStem": "a32fc1618775501db69aff748865b1b4ece02b0c8a6e87a71a16fa08522724b1",
+      "animatic:shot.44#stem": "0ee3255a85e4af5da5f1c3974162cea18f7a2d6c94eaca7055be22f93e3405b1",
+      "animatic:shot.44#songStem": "c64e845f07ccb30d9b525e59fc23e4aff145572bb9e3548334add886228dde2f",
+      "animatic:shot.45#stem": "8ebe62b2ec9b4af0c6491c815c43616f294c68985b6b768f0ffc5c04286ff622",
+      "animatic:shot.45#songStem": "a9f702281698eecf80abd9e2724b8de9c6224c88ab15dc46471ef872515db7cd",
+      "animatic:shot.46#stem": "e83be9be0b78d5fa051e09875f294621059f8df3924091e484e430660aec7887",
+      "animatic:shot.46#songStem": "04b300eee69a69dce029be98c24919071c40f20c000ba1ad91f2c03cd9066c7a",
+      "animatic:shot.47#stem": "6b84a9293743dfb14a127ba1de9149b17ee72fdbdb11f381f83efc38fd01cab7",
+      "animatic:shot.47#songStem": "61dfe8e86b47ec57e3087160017dfcff671f0e7efadea0865a8d83f805648f9b",
+      "animatic:shot.48#stem": "65cdfc2cfaa83265f968d10c32c7a4bd2ac70c82d6817f3dab98acb6a317487d",
+      "animatic:shot.48#songStem": "5efb83e6e717cc93422b94431148c34b35eecd67946f6b6759a37581f4541cf0",
+      "animatic:shot.49#stem": "c2b5e824db95f11bc819d1e668efbe864ffe00de6169ddc71d762f9345d407b7",
+      "animatic:shot.49#songStem": "7aff39eab368503430b67ec2e4d626481906376c6ea5eb5d217f782ddfbd2812",
+      "animatic:shot.50#stem": "9d84c69cbe7dc0b67087652bb28bb579863b5c48ce88eb45cdf1caaa0575a36c",
+      "animatic:shot.50#songStem": "21b899a0d9a3c5a540477a71ebcb1e302d036beea4cf089431979a578b51210c",
+      "animatic:shot.51#stem": "d2915789376571d63c401f7d36c7f72bc405c095231ccbecc3ee7062fa0e2df4",
+      "animatic:shot.51#songStem": "1e0932a071e908f9e173b5e69c15946a86a5d53529c10c21ebbf83d60ed3afe2",
+      "animatic:shot.52#stem": "33a01411736b2163411867801571c8b14606f768dedf259a2e7f715a17ed3fb1",
+      "animatic:shot.52#songStem": "3221c7bda8f5a80368253df94a0b92c8161ea9dd83f1573321b185ef82115a3c",
+      "animatic:shot.53#stem": "d87f4c613538e69719b96fd037d1f20f0175b6e515dc0590dc00046af2cb2f50",
+      "animatic:shot.53#songStem": "25e54caaf61c619c16d3376dfb917dd3f778974f0a8458ff9774ebbeb2511191",
+      "animatic:shot.54#stem": "c265d9b34748756ec5cda8c7c6626d3abc5e1c9eb52e6e2d2b50960eac42442c",
+      "animatic:shot.54#songStem": "e151a07147c0669f7d8fc4b8173b08be9031dd70bff9c4c875a16ec4d965d314",
+      "animatic:shot.55#stem": "d06ac6699410a3d44038baa82fe1bc59a9ae25d3bf1369824d878c5dba86ad7a",
+      "animatic:shot.55#songStem": "dda47b93fc67ddd44fd404d99861aa7beb817da94b2aae99bf1990f1d879af6c",
+      "animatic:shot.56#stem": "f566fb6a586736bfee7592f2bfcfc3977c8dcc3f4cb4d143788c52a5a68ff12b",
+      "animatic:shot.56#songStem": "599112f61e882053562bca8fea7e8a01675b6235f0eb3589d164bc4cf77a6979",
+      "animatic:shot.57#stem": "ce60c54a750cdb2aa2faecd0cce68658ac8563ce9f391322cdc4219cbbb02cc4",
+      "animatic:shot.57#songStem": "50212592085e4f699d726913eb9247dad54d69e6f0daab1d5e65e678cf73c76e",
+      "animatic:shot.58#stem": "9a20f0cb4a8de35ac2b5094531945857dbbafbcd200e79468ab98c44588628bc",
+      "animatic:shot.58#songStem": "b3cb18118ae0037d6a1df22f669db8a06e0e6b1442d1cb4afbbca2e291d8aac5",
+      "animatic:shot.59#stem": "8cbb60706774503c2aa52a05964d98d80e0c268b2165af99e71c134b46f68223",
+      "animatic:shot.59#songStem": "63f1b95bf0ff82b77cd29c7f7d0a519a3fc50554ca94c754da48d93a89f275bd",
+      "animatic:shot.60#stem": "ef0668aaa2fc393cffe5c2ad04f76cff3c71db369f7d78952f3ef5a0b3754a3b",
+      "animatic:shot.60#songStem": "84a688c942805517de6338f567f0472fab7d0b7f85e3eb6bc77e7b7f5fbb0847",
+      "animatic:shot.61#stem": "4d5c30ee49c60df128b1d0850069eecf6d56a68d42004649e48cdcb1173281b9",
+      "animatic:shot.61#songStem": "febb1c2ae1c0b321fd5107ba48d939178b6441776b6861d468c4937a78765e82"
+    }
+  },
+  "decisions": {
+    "61": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "animatic:shot.61#stem",
+      "via": "animatic:shot.61"
+    },
+    {
+      "address": "animatic:shot.61#songStem",
+      "via": "animatic:shot.61"
+    },
+    {
+      "address": "animatic:shot.61#composition",
+      "via": "animatic:shot.61"
+    },
+    {
+      "address": "direction:sequence.sequences.liftoff.shots.61",
+      "via": "animatic:shot.61"
+    },
+    {
+      "address": "direction:setups.earthFromMoonWide",
+      "via": "animatic:shot.61"
+    },
+    {
+      "address": "direction:sequence",
+      "via": "animatic:shot.61"
+    }
+  ],
+  "handoffSummary": "61を「月から見た地球」に描き直しました。60で宇宙飛行士が振り返って見上げた地球に、そのまま視線がつながる最後の画です。採用していただければ、61の動画を作ります。",
+  "handoffNotes": [
+    {
+      "address": "animatic:shot.61.first",
+      "text": ""
+    },
+    {
+      "address": "animatic:shot.61#composition",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "stage": "direction",
+  "summary": "動画レビューのご意見を受けて、演出設計を3か所直しました。採用をお願いします。",
+  "notes": [
+    {
+      "address": "direction:sequence.sequences.liftoff.waivers.undeclared-continuity_60-61",
+      "text": "61を「月から見た地球」に変えたため、konte から「60と61で月面の背景を一致させるのは難しい」と指摘されました。61は宇宙飛行士が見上げた地球の主観なので、背景の一致は求めない、という理由で対象外にしています。"
+    }
+  ]
+}

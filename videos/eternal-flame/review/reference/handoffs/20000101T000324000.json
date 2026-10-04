@@ -1,0 +1,26 @@
+{
+  "stage": "reference",
+  "summary": "コメントをいただいた5人を作り直しました。大統領と同じ方法で、まず写実モデルで「実在しそうな顔」の写真を作り、それを作品の画調に描き直しています。",
+  "notes": [
+    {
+      "address": "reference:settler",
+      "text": "頬のそばかすや面長の輪郭など、整いすぎない顔にしました。"
+    },
+    {
+      "address": "reference:dustMother",
+      "text": "こけた頬と目尻の皺で、苦労の跡が見える顔にしました。"
+    },
+    {
+      "address": "reference:factoryWoman",
+      "text": "丸顔・太い眉・頬の油汚れ・片側に寄った笑顔で、個性のある顔にしました。"
+    },
+    {
+      "address": "reference:unionSoldier",
+      "text": "アイルランド系の白人の青年（色白、そばかす、薄い金茶の髪、青い目）にしました。南軍の兵士と同じ顔立ちで、兄弟のように見えるようにしています。"
+    },
+    {
+      "address": "reference:confederateSoldier",
+      "text": "北軍の兵士と同じ顔立ちです。描き直しで軍服が紺色に寄ってしまったので、灰色を保つよう指示し直しました。新しい2枚はどちらも灰色です。"
+    }
+  ]
+}

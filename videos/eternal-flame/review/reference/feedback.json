@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "feedback": {
+    "reference:look": [
+      {
+        "id": "fb-juSJRoPn",
+        "displayedVariants": {
+          "reference:look": "v-COF006oJ"
+        },
+        "annotation": null,
+        "text": "ジブリには寄せたくない",
+        "createdAt": "2000-01-01T00:00:27.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "reference:settler": [
+      {
+        "id": "fb-KSZnpDfI",
+        "displayedVariants": {
+          "reference:settler": "v-G9899opL"
+        },
+        "annotation": null,
+        "text": "ちょっとマスピ顔なので、直したい。もうちょっとリアルよりがいいんじゃないかな？",
+        "createdAt": "2000-01-01T00:02:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "reference:dustMother": [
+      {
+        "id": "fb-svzY6Pkt",
+        "displayedVariants": {
+          "reference:dustMother": "v-GQ7jKL47"
+        },
+        "annotation": null,
+        "text": "これもマスピ顔なので、直したい",
+        "createdAt": "2000-01-01T00:02:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "reference:factoryWoman": [
+      {
+        "id": "fb-rmFf10Kk",
+        "displayedVariants": {
+          "reference:factoryWoman": "v-XbbQEtNe"
+        },
+        "annotation": null,
+        "text": "ちょっとマスピ顔なので、直したい",
+        "createdAt": "2000-01-01T00:02:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "reference:unionSoldier": [
+      {
+        "id": "fb-Q9Q5boH0",
+        "displayedVariants": {
+          "reference:unionSoldier": "v-2nYjnHGk"
+        },
+        "annotation": null,
+        "text": "これでもいいんだけど、もうちょっと白人感を出したバージョンもみてみたい",
+        "createdAt": "2000-01-01T00:02:11.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "reference:confederateSoldier": [
+      {
+        "id": "fb-Bcdup4LL",
+        "displayedVariants": {
+          "reference:confederateSoldier": "v-sjruuqft"
+        },
+        "annotation": null,
+        "text": "これでもいいんだけど、もうちょっと白人感を出したバージョンもみてみたい",
+        "createdAt": "2000-01-01T00:02:11.000Z",
+        "createdBy": "local"
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "mode": "video-preview",
+  "stage": "video",
+  "createdAt": "2000-01-01T00:08:53.000Z",
+  "context": {
+    "shots": [
+      {
+        "shotId": "01",
+        "start": 0,
+        "duration": 4.833333333333333,
+        "variants": {
+          "motion": "v-tGX3JJ2D"
+        }
+      },
+      {
+        "shotId": "02",
+        "start": 4.833333333333333,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "motion": "v-FyQAHq7z"
+        }
+      },
+      {
+        "shotId": "03",
+        "start": 8.25,
+        "duration": 5.708333333333333,
+        "variants": {
+          "motion": "v-hjzXHCsx"
+        }
+      },
+      {
+        "shotId": "04",
+        "start": 13.958333333333334,
+        "duration": 4.583333333333333,
+        "variants": {
+          "motion": "v-3qAmW7uO"
+        }
+      },
+      {
+        "shotId": "05",
+        "start": 18.541666666666668,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "motion": "v-PDPmVdrZ"
+        }
+      },
+      {
+        "shotId": "06",
+        "start": 21.958333333333332,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "motion": "v-aM2OZb4a"
+        }
+      },
+      {
+        "shotId": "07",
+        "start": 24.25,
+        "duration": 4.583333333333333,
+        "variants": {
+          "motion": "v-w0r9maRD"
+        }
+      },
+      {
+        "shotId": "08",
+        "start": 28.833333333333332,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "motion": "v-SIKowtmU"
+        }
+      },
+      {
+        "shotId": "09",
+        "start": 32.25,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "motion": "v-gzym1uAR"
+        }
+      },
+      {
+        "shotId": "10",
+        "start": 34.541666666666664,
+        "duration": 4.583333333333333,
+        "variants": {
+          "motion": "v-NP96bGeq"
+        }
+      },
+      {
+        "shotId": "11",
+        "start": 39.125,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "motion": "v-ZmJctSSV"
+        }
+      },
+      {
+        "shotId": "12",
+        "start": 41.416666666666664,
+        "duration": 1.125,
+        "variants": {
+          "motion": "v-6IHqJnf2"
+        }
+      },
+      {
+        "shotId": "13",
+        "start": 42.541666666666664,
+        "duration": 2.2916666666666665,
+        "variants": {
+          "motion": "v-8z4k2FkP"
+        }
+      },
+      {
+        "shotId": "14",
+        "start": 44.833333333333336,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "motion": "v-3x2N6jx5"
+        }
+      },
+      {
+        "shotId": "15",
+        "start": 48.25,
+        "duration": 1.1666666666666667,
+        "variants": {
+          "motion": "v-Z5P2oV3I"
+        }
+      },
+      {
+        "shotId": "16",
+        "start": 49.416666666666664,
+        "duration": 4.541666666666667,
+        "variants": {
+          "motion": "v-t4nMTLDi"
+        }
+      },
+      {
+        "shotId": "17",
+        "start": 53.958333333333336,
+        "duration": 4.583333333333333,
+        "variants": {
+          "motion": "v-SdPjBsE3"
+        }
+      },
+      {
+        "shotId": "18",
+        "start": 58.541666666666664,
+        "duration": 3.4166666666666665,
+        "variants": {
+          "motion": "v-S212VJqq"
+        }
+      },
+      {
+        "shotId": "19",
+        "start": 61.958333333333336,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "20",
+        "start": 64.25,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "21",
+        "start": 65.41666666666667,
+        "duration": 2.25,
+        "variants": {}
+      },
+      {
+        "shotId": "22",
+        "start": 67.66666666666667,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "23",
+        "start": 68.83333333333333,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "24",
+        "start": 71.125,
+        "duration": 1.125,
+        "variants": {}
+      },
+      {
+        "shotId": "25",
+        "start": 72.25,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "26",
+        "start": 73.41666666666667,
+        "duration": 2.25,
+        "variants": {}
+      },
+      {
+        "shotId": "27",
+        "start": 75.66666666666667,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "28",
+        "start": 76.83333333333333,
+        "duration": 1.125,
+        "variants": {}
+      },
+      {
+        "shotId": "29",
+        "start": 77.95833333333333,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "30",
+        "start": 80.25,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "31",
+        "start": 81.41666666666667,
+        "duration": 2.25,
+        "variants": {}
+      },
+      {
+        "shotId": "32",
+        "start": 83.66666666666667,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "33",
+        "start": 84.83333333333333,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "34",
+        "start": 87.125,
+        "duration": 3.4166666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "35",
+        "start": 90.54166666666667,
+        "duration": 4.583333333333333,
+        "variants": {}
+      },
+      {
+        "shotId": "36",
+        "start": 95.125,
+        "duration": 1.125,
+        "variants": {}
+      },
+      {
+        "shotId": "37",
+        "start": 96.25,
+        "duration": 3.4166666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "38",
+        "start": 99.66666666666667,
+        "duration": 5.75,
+        "variants": {}
+      },
+      {
+        "shotId": "39",
+        "start": 105.41666666666667,
+        "duration": 4.541666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "40",
+        "start": 109.95833333333333,
+        "duration": 3.4583333333333335,
+        "variants": {}
+      },
+      {
+        "shotId": "41",
+        "start": 113.41666666666667,
+        "duration": 5.708333333333333,
+        "variants": {}
+      },
+      {
+        "shotId": "42",
+        "start": 119.125,
+        "duration": 4.541666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "43",
+        "start": 123.66666666666667,
+        "duration": 4.583333333333333,
+        "variants": {}
+      },
+      {
+        "shotId": "44",
+        "start": 128.25,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "45",
+        "start": 130.54166666666666,
+        "duration": 1.125,
+        "variants": {}
+      },
+      {
+        "shotId": "46",
+        "start": 131.66666666666666,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "47",
+        "start": 132.83333333333334,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "48",
+        "start": 135.125,
+        "duration": 1.125,
+        "variants": {}
+      },
+      {
+        "shotId": "49",
+        "start": 136.25,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "50",
+        "start": 137.41666666666666,
+        "duration": 2.25,
+        "variants": {}
+      },
+      {
+        "shotId": "51",
+        "start": 139.66666666666666,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "52",
+        "start": 141.95833333333334,
+        "duration": 1.1666666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "53",
+        "start": 143.125,
+        "duration": 4.541666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "54",
+        "start": 147.66666666666666,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "55",
+        "start": 149.95833333333334,
+        "duration": 3.4583333333333335,
+        "variants": {}
+      },
+      {
+        "shotId": "56",
+        "start": 153.41666666666666,
+        "duration": 4.541666666666667,
+        "variants": {}
+      },
+      {
+        "shotId": "57",
+        "start": 157.95833333333334,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "58",
+        "start": 160.25,
+        "duration": 2.2916666666666665,
+        "variants": {}
+      },
+      {
+        "shotId": "59",
+        "start": 162.54166666666666,
+        "duration": 1.125,
+        "variants": {}
+      },
+      {
+        "shotId": "60",
+        "start": 163.66666666666666,
+        "duration": 4.583333333333333,
+        "variants": {}
+      },
+      {
+        "shotId": "61",
+        "start": 168.25,
+        "duration": 5.708333333333333,
+        "variants": {}
+      }
+    ],
+    "timeline": {},
+    "contentHashes": {
+      "video:shot.01#composition": "1945378d2fdaa23735cd559e0c0a46982ea2dd2e9cba7fa347de3a7adb988cd9",
+      "video:shot.02#composition": "ca5a7e40a5498ad862237f13996752f5d4ca1d371269a99a7780c45425180ac7",
+      "video:shot.03#composition": "f94a91da4a784603cca33c829b6da24472977231826e00db07ba5314f16d499d",
+      "video:shot.04#composition": "1cb010880d6c26117fb0330bee6a56d56fd4b0d1bf6a42cc57da14394388936f",
+      "video:shot.05#composition": "fa6309379a18b0aa16d97b4b047911014247f3a2db8fba182eadeb5714521d52",
+      "video:shot.06#composition": "6c258e423a6aaadf4fe9b98ae1782036693eb490f73d246bdbf69c9b238e2431",
+      "video:shot.07#composition": "5ba53dc1b98bd94d4a12c46dc77563beecaf268b6d68304d7a86fc62e7fb5424",
+      "video:shot.08#composition": "308af83d9eb238cc7bcff44135e55be1ef7c00f0cf8b7d86a578fd388582421b",
+      "video:shot.09#composition": "3c29130a09b4c5a1afce72e99df09e3ae22e5db5e5d7f5f07b354b6dc355f5d1",
+      "video:shot.10#composition": "c209d6b4fdf110e44aa4aff544e2fc0f74830af2e61c1b590c6ecae8765c053c",
+      "video:shot.11#composition": "db95d7addf2d98000c9796ad58971a84a5a65ccc7849589c39c02b5711e102ad",
+      "video:shot.12#composition": "c7aa3cfee867824628db7838ce3bbf5ab5bf04dad28d8630a00e79a60be7d3b4",
+      "video:shot.13#composition": "ea11d850e70dd00fbb3d7ec67e63a59e5c688ae233a4b88d766d4532c252a91a",
+      "video:shot.14#composition": "c63be89396e93edcb2395a5bb1b1d43d812eff6dba6ad0c41d9b98a07e8c8927",
+      "video:shot.15#composition": "e1b8c47b988756d1280f3332d1897776e25a554f9aace841b68d0879bb0b6b44",
+      "video:shot.16#composition": "b3c98778bbe653ac3dc183517a3cec50173a8d61927d6773f88a211b87070cb7",
+      "video:shot.17#composition": "a7b8ea36282459707d0a7cd7c3ab1b8cfb32e74d328f019cc283f94e8180dd6c",
+      "video:shot.18#composition": "c0ac406a65d1bab07f1b26884e97b42e2ad866d32075bf282ea605c8ca99d08e"
+    }
+  },
+  "decisions": {
+    "11": "accepted",
+    "12": "accepted",
+    "13": "accepted",
+    "14": "accepted",
+    "15": "accepted",
+    "16": "accepted",
+    "17": "accepted",
+    "18": "accepted"
+  },
+  "cascadeAccepted": [
+    {
+      "address": "video:shot.11#composition",
+      "via": "video:shot.11"
+    },
+    {
+      "address": "video:shot.12#composition",
+      "via": "video:shot.12"
+    },
+    {
+      "address": "video:shot.13#composition",
+      "via": "video:shot.13"
+    },
+    {
+      "address": "video:shot.14#composition",
+      "via": "video:shot.14"
+    },
+    {
+      "address": "video:shot.15#composition",
+      "via": "video:shot.15"
+    },
+    {
+      "address": "video:shot.16#composition",
+      "via": "video:shot.16"
+    },
+    {
+      "address": "video:shot.17#composition",
+      "via": "video:shot.17"
+    },
+    {
+      "address": "video:shot.18#composition",
+      "via": "video:shot.18"
+    }
+  ],
+  "handoffSummary": "コメントをいただいた16と18を直しました。前回、コメントのなかった11〜15と17は未採用のままです。そのままで良ければ採用を、気になる点があればコメントをお願いします。",
+  "handoffNotes": [
+    {
+      "address": "video:shot.18.motion",
+      "text": "画面左（西）を向くように戻しました。最初の作り直しでは背景の光条が消えてしまったので、背景をそのまま保つよう指示して、もう一度作り直しています。"
+    },
+    {
+      "address": "video:shot.16.motion",
+      "text": "カメラの寄りを、ほとんど気づかないくらいのゆるやかさに抑えました。"
+    }
+  ]
+}

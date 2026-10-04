@@ -1,0 +1,31 @@
+{
+  "kind": "comfy",
+  "workflow": "audio_yue2.json",
+  "inputs": {
+    "54.value": "English, cinematic orchestral pop, clear powerful female vocal, 104 BPM, 4/4, soaring string section, French horns, taiko and timpani, felt piano, choir pads, wide polished film-score production",
+    "55.value": "[Verse]\nOne small spark in the endless night\nCupped by hands against the cold\nPassed along from heart to heart\nA promise someone had to hold\n\n[Chorus]\nCarry the fire, carry it on\nThrough every night until the dawn\nHand to hand and year to year\nWe carry the fire, we carry it here\n\n[Verse]\nSmoke on the river, chains on the land\nLong roads walked in silent tears\nBrother turned on brother's hand\nEmpty tables, empty years\n\n[Chorus]\nCarry the fire, don't let it die\nWhen the whole world burns beneath the sky\nHand to hand and year to year\nWe carry the fire, we carry it here\n\n[Bridge]\nJust a candle in the window\nJust a flicker, just a flame\nSomeone waiting in the darkness\nSomeone whispering our name\n\n[Chorus]\nCarry the fire, lift it high\nLight the engines, split the sky\nHand to hand and year to year\nWe carried the fire, and now we're here\n\n[Outro]\nOne small spark in the endless night\nNow a footprint on the moon",
+    "56.value": 104,
+    "42.mode": "full",
+    "46.mode": "full",
+    "46.max_duration": 360,
+    "53.seed": "__konte:seed__",
+    "41.ckpt_name": "yue2_3b_int8_convrot.safetensors"
+  },
+  "models": [
+    {
+      "filename": "yue2_3b_int8_convrot.safetensors",
+      "type": "checkpoint",
+      "url": "https://huggingface.co/Comfy-Org/YuE2/resolve/main/checkpoints/yue2_3b_int8_convrot.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "54.value": "style",
+    "55.value": "lyrics",
+    "56.value": "bpm",
+    "42.mode": "mode",
+    "46.mode": "mode",
+    "46.max_duration": "maxDuration",
+    "53.seed": "seed",
+    "41.ckpt_name": "ckptName"
+  }
+}

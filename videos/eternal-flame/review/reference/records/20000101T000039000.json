@@ -1,0 +1,37 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:00:39.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "song": "v-ikQQnJ5B",
+      "look": "v-yDb6uMP8"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:look",
+      "variantId": "v-yDb6uMP8",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-juSJRoPn",
+          "annotation": null,
+          "text": "ジブリには寄せたくない",
+          "displayedVariants": {
+            "reference:look": "v-COF006oJ"
+          },
+          "stale": true
+        }
+      ]
+    }
+  ],
+  "handoffSummary": "「ジブリに寄せない」のご指摘を受けて、現代的なアニメゲームのキービジュアル調に寄せて作り直しました（新しい4枚）。",
+  "handoffNotes": [
+    {
+      "address": "reference:look",
+      "text": "線をシャープにし、硬い影・強い逆光・光の筋・舞う火の粉を入れて、彩度とコントラストを上げました。4枚とも、構図や人物に破綻はありません。おすすめは v-yDb6uMP8 です。ランタンの光が最も強く、光の筋の放射が Fate の画に近いと思います。"
+    }
+  ]
+}

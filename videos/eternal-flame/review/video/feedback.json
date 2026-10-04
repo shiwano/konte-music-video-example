@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "feedback": {
+    "video:shot.18": [
+      {
+        "id": "fb-BuS76jSf",
+        "displayedVariants": {
+          "video:shot.18.motion": "v-WKryet2z"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.18#composition": "632e9fbab1aa"
+        },
+        "annotation": null,
+        "time": 58.56666666666667,
+        "shotTime": 0.025000000000005684,
+        "text": "西は画面左を向くほうがいいんじゃない？",
+        "createdAt": "2000-01-01T00:08:44.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.16": [
+      {
+        "id": "fb-ld6wNp8K",
+        "displayedVariants": {
+          "video:shot.16.motion": "v-SpG4H20X"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.16#composition": "1fac4d517cb2"
+        },
+        "annotation": null,
+        "time": 50.233333333333334,
+        "shotTime": 0.81666666666667,
+        "text": "ズームがちょっと早い",
+        "createdAt": "2000-01-01T00:08:44.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.21": [
+      {
+        "id": "fb-Hw7m0IoR",
+        "displayedVariants": {
+          "video:shot.21.motion": "v-ImBfCnpU"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.21#composition": "c96fede23092"
+        },
+        "annotation": null,
+        "time": 66,
+        "shotTime": 0.5833333333333286,
+        "text": "ここの歩きが早すぎる",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.23": [
+      {
+        "id": "fb-jLqIXaGI",
+        "displayedVariants": {
+          "video:shot.23.motion": "v-EeYeQUUX"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.23#composition": "7b06c6b43c02"
+        },
+        "annotation": null,
+        "time": 70.16666666666667,
+        "shotTime": 1.3333333333333428,
+        "text": "カメラの動きが早すぎる",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.33": [
+      {
+        "id": "fb-YouGs8ft",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-Tu9Rxe0j"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "d9b11d3582e7"
+        },
+        "annotation": null,
+        "time": 86.36666666666666,
+        "shotTime": 1.5333333333333314,
+        "text": "なんでランプの火屋を点火させてるのかわからん。溶接トーチ別に光らせなくてもいいのでは？",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-WX3Zvhv8",
+        "displayedVariants": {
+          "video:shot.33.motion": "v-OdBz9jjb",
+          "video:shot.33#composition": "v-cGfLQoap"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.33#composition": "d9b11d3582e7",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": null,
+        "time": 85.26666666666667,
+        "shotTime": 0.4333333333333371,
+        "text": "普通に灯油ランプを受け取る絵のほうがいいかも",
+        "createdAt": "2000-01-01T00:22:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.35": [
+      {
+        "id": "fb-Z7ROaa7R",
+        "displayedVariants": {
+          "video:shot.35.motion": "v-L9Os8E49"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.35#composition": "1e122271212d"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.265,
+          "y": 0.553
+        },
+        "time": 92,
+        "shotTime": 1.4583333333333286,
+        "text": "なんか火花が増えてるのは変。増やさなくていい。",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.38": [
+      {
+        "id": "fb-j3N5mSry",
+        "displayedVariants": {
+          "video:shot.38.motion": "v-m0u9Tehq"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.38#composition": "369036cc8d6c"
+        },
+        "annotation": null,
+        "time": 101.2,
+        "shotTime": 1.5333333333333314,
+        "text": "手前の船が動いてないのが気になる。",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.42": [
+      {
+        "id": "fb-o05gMFOK",
+        "displayedVariants": {
+          "video:shot.42.motion": "v-EpUVXuRP"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.42#composition": "57c11985c423"
+        },
+        "annotation": null,
+        "time": 120.86666666666666,
+        "shotTime": 1.74166666666666,
+        "text": "これでもいいけど、手を合わせる動きをもっとゆっくりにしたい。ちょっと元気な印象を受ける。",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.55": [
+      {
+        "id": "fb-gbVBtFPj",
+        "displayedVariants": {
+          "video:shot.55.motion": "v-aSyu7NvR"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.55#composition": "e37a5629722c"
+        },
+        "annotation": null,
+        "time": 151.7,
+        "shotTime": 1.7416666666666458,
+        "text": "このカメラがちょっと早すぎる",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-2AZwr73L",
+        "displayedVariants": {
+          "video:shot.55.motion": "v-aSyu7NvR"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.55#composition": "e37a5629722c"
+        },
+        "annotation": null,
+        "time": 149.96666666666667,
+        "shotTime": 0.008333333333325754,
+        "text": "あと月にいくなら、地球が遠くになっていくほうがよさそう",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.61": [
+      {
+        "id": "fb-W3sZzdTD",
+        "displayedVariants": {
+          "video:shot.61.motion": "v-lpSUP1OH"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.61#composition": "ada7117e8d7e"
+        },
+        "annotation": null,
+        "time": 168.26666666666668,
+        "shotTime": 0.01666666666667993,
+        "text": "最後は月からみた地球でもいいかも。飛行士が見上げた地球につながる感じで",
+        "createdAt": "2000-01-01T00:18:52.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-SKKjVhNq",
+        "displayedVariants": {
+          "video:shot.61.motion": "v-yiiCPhJa"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.61#composition": "ada7117e8d7e"
+        },
+        "annotation": null,
+        "time": 168.26666666666668,
+        "shotTime": 0.01666666666667993,
+        "text": "カメラはちょっとズームしていく感じで動いてほしい",
+        "createdAt": "2000-01-01T00:19:33.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-sLprXRco",
+        "displayedVariants": {
+          "video:shot.61.motion": "v-yiiCPhJa",
+          "video:shot.61#composition": "v-ZOmUzgnr"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.61#composition": "b622bb4257b0",
+          "video:timeline#overlay": "9a9b60be34e9"
+        },
+        "annotation": null,
+        "time": 169.2,
+        "shotTime": 0.9499999999999886,
+        "text": "ズームががたがたしてる",
+        "createdAt": "2000-01-01T00:22:05.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.01": [
+      {
+        "id": "fb-ryIci2bD",
+        "displayedVariants": {
+          "video:shot.01.motion": "v-tGX3JJ2D",
+          "video:shot.01#composition": "v-zl7sAidN"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.01#composition": "8ff2f866eea6",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.498,
+          "y": 0.497
+        },
+        "time": 1.2333333333333334,
+        "shotTime": 1.2333333333333334,
+        "text": "炭布じゃなくて火打ち石が赤くなってる。炭布を手前に持ってきたい",
+        "createdAt": "2000-01-01T00:22:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.03": [
+      {
+        "id": "fb-0NpEP1Tt",
+        "displayedVariants": {
+          "video:shot.03.motion": "v-hjzXHCsx",
+          "video:shot.03#composition": "v-OVVY7OkS"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.03#composition": "1accc26996de",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.26,
+          "y": 0.492
+        },
+        "time": 9.133333333333333,
+        "shotTime": 0.8833333333333329,
+        "text": "囲いの外で火をつけてるのが違和感",
+        "createdAt": "2000-01-01T00:22:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.05": [
+      {
+        "id": "fb-qW67Cxdg",
+        "displayedVariants": {
+          "video:shot.05.motion": "v-PDPmVdrZ",
+          "video:shot.05#composition": "v-tcSuReR9"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.05#composition": "674e9f84e8ff",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.674,
+          "y": 0.18
+        },
+        "time": 19.966666666666665,
+        "shotTime": 1.4249999999999972,
+        "text": "尖塔が光りすぎ。06では光ってないし、光らなくてもいいかも。画面が明るくなるのもいらない。",
+        "createdAt": "2000-01-01T00:22:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.07": [
+      {
+        "id": "fb-4zXOFL6D",
+        "displayedVariants": {
+          "video:shot.07.motion": "v-w0r9maRD",
+          "video:shot.07#composition": "v-zJSOBkbf"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.07#composition": "f7382b3c9b9c",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": null,
+        "time": 26.133333333333333,
+        "shotTime": 1.8833333333333329,
+        "text": "全員立ち上がり方やタイミングが同じなのでロボットみたい。もっとばらつきがほしい。",
+        "createdAt": "2000-01-01T00:22:16.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-QcsteZZu",
+        "displayedVariants": {
+          "video:shot.07.motion": "v-dk6C4jj9"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.07#composition": "f7382b3c9b9c",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.56,
+          "y": 0.648
+        },
+        "time": 28.733333333333334,
+        "shotTime": 4.483333333333334,
+        "text": "杖が途中から生えてきた",
+        "createdAt": "2000-01-01T00:23:28.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-tnMqbvNf",
+        "displayedVariants": {
+          "video:shot.07.motion": "v-lSnmQZri"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.07#composition": "f7382b3c9b9c",
+          "video:timeline#overlay": "d64d8e39b3c9"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.54,
+          "y": 0.563
+        },
+        "text": "この人だけ右に向いているのが変",
+        "time": 28.3,
+        "shotTime": 4.050000000000001,
+        "createdAt": "2000-01-01T00:23:55.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.51": [
+      {
+        "id": "fb-NcoT1UjD",
+        "displayedVariants": {
+          "video:shot.51.motion": "v-ByLFNRQ5",
+          "video:shot.51#composition": "v-YWap8usd"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.51#composition": "2ca26ac227e9",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.524,
+          "y": 0.602
+        },
+        "time": 140.56666666666666,
+        "shotTime": 0.9000000000000057,
+        "text": "ここ黒人とかも有色人種も出したほうが人種の統合感も出せて、いい気がする。時代的に不自然じゃなければ。どう？",
+        "createdAt": "2000-01-01T00:22:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "video:shot.58": [
+      {
+        "id": "fb-vaxBQk4Y",
+        "displayedVariants": {
+          "video:shot.58.motion": "v-G9cWZVh1",
+          "video:shot.58#composition": "v-H6XYwmQJ"
+        },
+        "displayedDefinitionHashes": {
+          "video:shot.58#composition": "de87e52c218a",
+          "video:timeline#overlay": "7b168ad5761b"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.371,
+          "y": 0.499
+        },
+        "time": 161.46666666666667,
+        "shotTime": 1.2166666666666686,
+        "text": "煙みたいなのが舞ってるけどいらないかな",
+        "createdAt": "2000-01-01T00:22:16.000Z",
+        "createdBy": "local"
+      }
+    ]
+  }
+}

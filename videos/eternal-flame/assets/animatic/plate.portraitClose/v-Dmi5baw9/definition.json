@@ -1,0 +1,15 @@
+{
+  "kind": "local",
+  "operation": "crop",
+  "mediaType": "image",
+  "inputs": {
+    "image": "__konte:animatic:plate.portraitMedium__",
+    "x": 70,
+    "y": 40,
+    "width": 1204,
+    "height": 688,
+    "outWidth": 1248,
+    "outHeight": 704
+  },
+  "deterministic": true
+}

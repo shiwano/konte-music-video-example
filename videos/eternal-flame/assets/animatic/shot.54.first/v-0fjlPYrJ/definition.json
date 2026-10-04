@@ -1,0 +1,67 @@
+{
+  "kind": "comfy",
+  "workflow": "image_minimax_h3_r2i.json",
+  "inputs": {
+    "21.image": "__konte:reference:capsule__",
+    "22.image": "__konte:reference:astronaut__",
+    "10.prompt": "subject_definitions: <Subject 1> is the Apollo command module interior in <Picture 1>: the curved instrument panel of switches and glowing indicator lights.\n<Subject 2> is the astronaut in a white Apollo spacesuit in <Picture 2>: a calm focused face inside a white helmet with the gold visor raised.\n\nsummary: [reference generation] The astronaut in the capsule, his face in the dim light of the instruments.\n\nretention_analysis: <Subject 1> (appears in [Shot 1]): attribute_transfer - the instrument panel and its glowing lights carry over behind him; the framing is new.\n<Subject 2> (appears in [Shot 1]): fully_preserved - his face, helmet and suit; the expression is remade as written here.\n\ndetailed_description: 2D-animated. Modern high-end Japanese anime game key visual: crisp thin lineart, dramatic cel shading with hard-edged shadows, strong rim light, glowing bloom, deep saturated color. [Shot 1] A close-up inside the command module: the astronaut in a white Apollo spacesuit lies back in his couch, his face inside the white helmet in the centre of the frame, the gold visor raised, the instrument panel's switches and small green and amber indicator lights out of focus behind him. His face is in dim instrument light, his calm eyes turned toward frame right where a small window lies just off the frame, its edge of hard white light just reaching the rim of his helmet.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A",
+    "10.width": 1248,
+    "10.height": 704,
+    "10.ref_image_size": "max",
+    "11.noise_seed": "__konte:seed__",
+    "13.steps": 20,
+    "1.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "2.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "3.vae_name": "minimax_h3_video_vae_int8_convrot.safetensors",
+    "4.vae_name": "minimax_h3_audio_vae_fp32.safetensors",
+    "10.length": 5,
+    "17.batch_index": 0
+  },
+  "prunedNodes": [
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+  ],
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "21.image": "image1",
+    "22.image": "image2",
+    "10.prompt": "prompt",
+    "10.width": "width",
+    "10.height": "height",
+    "10.ref_image_size": "refImageSize",
+    "11.noise_seed": "seed",
+    "13.steps": "steps",
+    "1.unet_name": "unetName",
+    "2.clip_name": "clipName",
+    "3.vae_name": "vaeName",
+    "4.vae_name": "audioVaeName",
+    "10.length": "length",
+    "17.batch_index": "frameIndex"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:03:34.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "song": "v-ikQQnJ5B",
+      "look": "v-yDb6uMP8",
+      "washington": "v-UWyUgSgC",
+      "jefferson": "v-Sjqs6JMQ",
+      "jackson": "v-uvpzSOjK",
+      "lincoln": "v-ld95AVWf",
+      "tRoosevelt": "v-sHsCSj39",
+      "wilson": "v-agTHi4Y8",
+      "fRoosevelt": "v-giP7tkcz",
+      "truman": "v-PPNsAXW0",
+      "eisenhower": "v-yWhzXJx3",
+      "kennedy": "v-MuASQato",
+      "johnson": "v-ukohTYD9",
+      "nixon": "v-W0CopZ0y",
+      "settler": "v-R3CLwELN",
+      "minuteman": "v-afkvfAy0",
+      "blacksmith": "v-dZ4U3YDa",
+      "cherokeeElder": "v-aJPaQasv",
+      "freedomSeeker": "v-iA6Qwim6",
+      "unionSoldier": "v-BdYlRnAV",
+      "confederateSoldier": "v-Pw4qksfx",
+      "dustMother": "v-P06TlyQF",
+      "factoryWoman": "v-IdhWwilr",
+      "astronaut": "v-3qPoXdwP",
+      "lantern": "v-wuCgSAjU",
+      "candle": "v-6vilmPxC",
+      "parchment": "v-d6HATckc",
+      "kerosene": "v-YYnMAxGX",
+      "weldingTorch": "v-gcvhXlVg",
+      "saturnV": "v-3uW9Y8at",
+      "darkness": "v-5pQEA8Cj",
+      "shore": "v-wBkrUI96",
+      "bostonNight": "v-FFFg2dQo",
+      "assemblyHall": "v-0AMLQrBI",
+      "gilded": "v-2gkdzl91",
+      "forge": "v-B0DFGAXj",
+      "prairie": "v-qENhkkdz",
+      "mississippi": "v-AW6rbule",
+      "plantation": "v-VClcNCSi",
+      "trail": "v-tjjiYbw6",
+      "riverCamps": "v-sWFAkMY0",
+      "dustFarm": "v-TgyNFeM0",
+      "warfront": "v-jKvVKCzY",
+      "factory": "v-ljlFwTeo",
+      "atlantic": "v-hMnarTIk",
+      "safehouse": "v-qO6oUMgj",
+      "homefront": "v-9Wi1pIMG",
+      "launchPad": "v-czcDNmI8",
+      "beach": "v-HBrEWl32",
+      "capsule": "v-tb9oYA3u",
+      "upperSky": "v-kJaLQu6U",
+      "space": "v-WcQVA1jM",
+      "moon": "v-OdiYL7pf"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:confederateSoldier",
+      "variantId": "v-Pw4qksfx",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-Bcdup4LL",
+          "annotation": null,
+          "text": "これでもいいんだけど、もうちょっと白人感を出したバージョンもみてみたい",
+          "displayedVariants": {
+            "reference:confederateSoldier": "v-sjruuqft"
+          },
+          "stale": true
+        }
+      ]
+    },
+    {
+      "address": "reference:unionSoldier",
+      "variantId": "v-BdYlRnAV",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-Q9Q5boH0",
+          "annotation": null,
+          "text": "これでもいいんだけど、もうちょっと白人感を出したバージョンもみてみたい",
+          "displayedVariants": {
+            "reference:unionSoldier": "v-2nYjnHGk"
+          },
+          "stale": true
+        }
+      ]
+    },
+    {
+      "address": "reference:dustMother",
+      "variantId": "v-P06TlyQF",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-svzY6Pkt",
+          "annotation": null,
+          "text": "これもマスピ顔なので、直したい",
+          "displayedVariants": {
+            "reference:dustMother": "v-GQ7jKL47"
+          },
+          "stale": true
+        }
+      ]
+    },
+    {
+      "address": "reference:factoryWoman",
+      "variantId": "v-IdhWwilr",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-rmFf10Kk",
+          "annotation": null,
+          "text": "ちょっとマスピ顔なので、直したい",
+          "displayedVariants": {
+            "reference:factoryWoman": "v-XbbQEtNe"
+          },
+          "stale": true
+        }
+      ]
+    },
+    {
+      "address": "reference:settler",
+      "variantId": "v-R3CLwELN",
+      "status": "accepted",
+      "feedback": [
+        {
+          "id": "fb-KSZnpDfI",
+          "annotation": null,
+          "text": "ちょっとマスピ顔なので、直したい。もうちょっとリアルよりがいいんじゃないかな？",
+          "displayedVariants": {
+            "reference:settler": "v-G9899opL"
+          },
+          "stale": true
+        }
+      ]
+    }
+  ],
+  "cascadeAccepted": [
+    {
+      "address": "reference:confederateSoldierPhoto",
+      "via": "reference:confederateSoldier"
+    },
+    {
+      "address": "reference:unionSoldierPhoto",
+      "via": "reference:unionSoldier"
+    },
+    {
+      "address": "reference:dustMotherPhoto",
+      "via": "reference:dustMother"
+    },
+    {
+      "address": "reference:factoryWomanPhoto",
+      "via": "reference:factoryWoman"
+    },
+    {
+      "address": "reference:settlerPhoto",
+      "via": "reference:settler"
+    }
+  ],
+  "handoffSummary": "コメントをいただいた5人を作り直しました。大統領と同じ方法で、まず写実モデルで「実在しそうな顔」の写真を作り、それを作品の画調に描き直しています。",
+  "handoffNotes": [
+    {
+      "address": "reference:settler",
+      "text": "頬のそばかすや面長の輪郭など、整いすぎない顔にしました。"
+    },
+    {
+      "address": "reference:dustMother",
+      "text": "こけた頬と目尻の皺で、苦労の跡が見える顔にしました。"
+    },
+    {
+      "address": "reference:factoryWoman",
+      "text": "丸顔・太い眉・頬の油汚れ・片側に寄った笑顔で、個性のある顔にしました。"
+    },
+    {
+      "address": "reference:unionSoldier",
+      "text": "アイルランド系の白人の青年（色白、そばかす、薄い金茶の髪、青い目）にしました。南軍の兵士と同じ顔立ちで、兄弟のように見えるようにしています。"
+    },
+    {
+      "address": "reference:confederateSoldier",
+      "text": "北軍の兵士と同じ顔立ちです。描き直しで軍服が紺色に寄ってしまったので、灰色を保つよう指示し直しました。新しい2枚はどちらも灰色です。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "stage": "animatic",
+  "summary": "「大統領が主役」のご意見に合わせて、26（リンカーン）・34（F・ルーズベルト）・52（ジョンソン）を、胸から上の大きな顔の構図で描き直しました。金の枠は、採用済みのカットと見た目が変わらないよう、そのままにしています。",
+  "notes": [
+    {
+      "address": "animatic:shot.26.first",
+      "text": ""
+    },
+    {
+      "address": "animatic:shot.34.first",
+      "text": ""
+    },
+    {
+      "address": "animatic:shot.52.first",
+      "text": ""
+    },
+    {
+      "address": "animatic:shot.26#composition",
+      "text": ""
+    },
+    {
+      "address": "animatic:shot.34#composition",
+      "text": ""
+    },
+    {
+      "address": "animatic:shot.52#composition",
+      "text": ""
+    }
+  ]
+}

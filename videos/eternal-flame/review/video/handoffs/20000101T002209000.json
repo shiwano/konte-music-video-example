@@ -1,0 +1,18 @@
+{
+  "stage": "video",
+  "summary": "字幕を通常の位置（画面下）に戻し、黒い縁取りと影をつけて、金枠の上でも読めるようにしました。61は、拡大のガタつきをなくすため、映像そのものをカメラがゆっくり地球へ寄っていく動きで作り直しました（最後の暗転はそのままです）。",
+  "notes": [
+    {
+      "address": "video:timeline#overlay",
+      "text": ""
+    },
+    {
+      "address": "video:shot.61.motion",
+      "text": ""
+    },
+    {
+      "address": "video:shot.61#composition",
+      "text": ""
+    }
+  ]
+}

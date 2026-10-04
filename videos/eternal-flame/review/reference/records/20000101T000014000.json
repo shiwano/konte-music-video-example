@@ -1,0 +1,26 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:00:14.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "song": "v-ikQQnJ5B"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:song",
+      "variantId": "v-ikQQnJ5B",
+      "status": "accepted",
+      "feedback": []
+    }
+  ],
+  "handoffSummary": "曲の候補5本です。テンポが指定どおり 104 BPM で、歌詞もほぼ通っているのは v-7rpITIXP（2:54）と v-gudF5LNj（3:05）の2本です。残りの3本はテンポが 105 にずれているか、歌詞が大きく抜けています。",
+  "handoffNotes": [
+    {
+      "address": "reference:song",
+      "text": "おすすめは v-7rpITIXP です。テンポが正確で、ラストサビからアウトロ（月面の足跡）まできれいに歌われています。ただ、ブリッジ2行目の \"Just a flicker, just a flame\" の位置が読み取れていないので、聴きながら歌われている位置にドラッグしていただけると助かります。v-gudF5LNj は少し長めですが、ブリッジの歌詞が崩れ気味です。"
+    }
+  ]
+}

@@ -1,0 +1,489 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:03:00.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "song": "v-ikQQnJ5B",
+      "look": "v-yDb6uMP8",
+      "washington": "v-UWyUgSgC",
+      "jefferson": "v-Sjqs6JMQ",
+      "jackson": "v-uvpzSOjK",
+      "lincoln": "v-ld95AVWf",
+      "tRoosevelt": "v-sHsCSj39",
+      "wilson": "v-agTHi4Y8",
+      "fRoosevelt": "v-giP7tkcz",
+      "truman": "v-PPNsAXW0",
+      "eisenhower": "v-yWhzXJx3",
+      "kennedy": "v-MuASQato",
+      "johnson": "v-ukohTYD9",
+      "nixon": "v-W0CopZ0y",
+      "settler": "v-G9899opL",
+      "minuteman": "v-afkvfAy0",
+      "blacksmith": "v-dZ4U3YDa",
+      "cherokeeElder": "v-aJPaQasv",
+      "freedomSeeker": "v-iA6Qwim6",
+      "unionSoldier": "v-2nYjnHGk",
+      "confederateSoldier": "v-sjruuqft",
+      "dustMother": "v-GQ7jKL47",
+      "factoryWoman": "v-XbbQEtNe",
+      "astronaut": "v-3qPoXdwP",
+      "lantern": "v-wuCgSAjU",
+      "candle": "v-6vilmPxC",
+      "parchment": "v-d6HATckc",
+      "kerosene": "v-YYnMAxGX",
+      "weldingTorch": "v-gcvhXlVg",
+      "saturnV": "v-3uW9Y8at",
+      "darkness": "v-5pQEA8Cj",
+      "shore": "v-wBkrUI96",
+      "bostonNight": "v-FFFg2dQo",
+      "assemblyHall": "v-0AMLQrBI",
+      "gilded": "v-2gkdzl91",
+      "forge": "v-B0DFGAXj",
+      "prairie": "v-qENhkkdz",
+      "mississippi": "v-AW6rbule",
+      "plantation": "v-VClcNCSi",
+      "trail": "v-tjjiYbw6",
+      "riverCamps": "v-sWFAkMY0",
+      "dustFarm": "v-TgyNFeM0",
+      "warfront": "v-jKvVKCzY",
+      "factory": "v-ljlFwTeo",
+      "atlantic": "v-hMnarTIk",
+      "safehouse": "v-qO6oUMgj",
+      "homefront": "v-9Wi1pIMG",
+      "launchPad": "v-czcDNmI8",
+      "beach": "v-HBrEWl32",
+      "capsule": "v-tb9oYA3u",
+      "upperSky": "v-kJaLQu6U",
+      "space": "v-WcQVA1jM",
+      "moon": "v-OdiYL7pf"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:washington",
+      "variantId": "v-UWyUgSgC",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:jefferson",
+      "variantId": "v-Sjqs6JMQ",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:jackson",
+      "variantId": "v-uvpzSOjK",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:lincoln",
+      "variantId": "v-ld95AVWf",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:tRoosevelt",
+      "variantId": "v-sHsCSj39",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:wilson",
+      "variantId": "v-agTHi4Y8",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:fRoosevelt",
+      "variantId": "v-giP7tkcz",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:truman",
+      "variantId": "v-PPNsAXW0",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:eisenhower",
+      "variantId": "v-yWhzXJx3",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:kennedy",
+      "variantId": "v-MuASQato",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:johnson",
+      "variantId": "v-ukohTYD9",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:nixon",
+      "variantId": "v-W0CopZ0y",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:minuteman",
+      "variantId": "v-afkvfAy0",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:blacksmith",
+      "variantId": "v-dZ4U3YDa",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:cherokeeElder",
+      "variantId": "v-aJPaQasv",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:freedomSeeker",
+      "variantId": "v-iA6Qwim6",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:astronaut",
+      "variantId": "v-3qPoXdwP",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:lantern",
+      "variantId": "v-wuCgSAjU",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:candle",
+      "variantId": "v-6vilmPxC",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:parchment",
+      "variantId": "v-d6HATckc",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:kerosene",
+      "variantId": "v-YYnMAxGX",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:weldingTorch",
+      "variantId": "v-gcvhXlVg",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:saturnV",
+      "variantId": "v-3uW9Y8at",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:darkness",
+      "variantId": "v-5pQEA8Cj",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:bostonNight",
+      "variantId": "v-FFFg2dQo",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:assemblyHall",
+      "variantId": "v-0AMLQrBI",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:gilded",
+      "variantId": "v-2gkdzl91",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:forge",
+      "variantId": "v-B0DFGAXj",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:prairie",
+      "variantId": "v-qENhkkdz",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:mississippi",
+      "variantId": "v-AW6rbule",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:plantation",
+      "variantId": "v-VClcNCSi",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:trail",
+      "variantId": "v-tjjiYbw6",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:riverCamps",
+      "variantId": "v-sWFAkMY0",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:dustFarm",
+      "variantId": "v-TgyNFeM0",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:warfront",
+      "variantId": "v-jKvVKCzY",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:factory",
+      "variantId": "v-ljlFwTeo",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:atlantic",
+      "variantId": "v-hMnarTIk",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:safehouse",
+      "variantId": "v-qO6oUMgj",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:homefront",
+      "variantId": "v-9Wi1pIMG",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:launchPad",
+      "variantId": "v-czcDNmI8",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:beach",
+      "variantId": "v-HBrEWl32",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:capsule",
+      "variantId": "v-tb9oYA3u",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:upperSky",
+      "variantId": "v-kJaLQu6U",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:space",
+      "variantId": "v-WcQVA1jM",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:moon",
+      "variantId": "v-OdiYL7pf",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:shore",
+      "variantId": "v-wBkrUI96",
+      "status": "accepted",
+      "feedback": []
+    },
+    {
+      "address": "reference:settler",
+      "feedback": [
+        {
+          "id": "fb-KSZnpDfI",
+          "annotation": null,
+          "text": "ちょっとマスピ顔なので、直したい。もうちょっとリアルよりがいいんじゃないかな？",
+          "displayedVariants": {
+            "reference:settler": "v-G9899opL"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    },
+    {
+      "address": "reference:dustMother",
+      "feedback": [
+        {
+          "id": "fb-svzY6Pkt",
+          "annotation": null,
+          "text": "これもマスピ顔なので、直したい",
+          "displayedVariants": {
+            "reference:dustMother": "v-GQ7jKL47"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    },
+    {
+      "address": "reference:factoryWoman",
+      "feedback": [
+        {
+          "id": "fb-rmFf10Kk",
+          "annotation": null,
+          "text": "ちょっとマスピ顔なので、直したい",
+          "displayedVariants": {
+            "reference:factoryWoman": "v-XbbQEtNe"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    },
+    {
+      "address": "reference:unionSoldier",
+      "feedback": [
+        {
+          "id": "fb-Q9Q5boH0",
+          "annotation": null,
+          "text": "これでもいいんだけど、もうちょっと白人感を出したバージョンもみてみたい",
+          "displayedVariants": {
+            "reference:unionSoldier": "v-2nYjnHGk"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    },
+    {
+      "address": "reference:confederateSoldier",
+      "feedback": [
+        {
+          "id": "fb-Bcdup4LL",
+          "annotation": null,
+          "text": "これでもいいんだけど、もうちょっと白人感を出したバージョンもみてみたい",
+          "displayedVariants": {
+            "reference:confederateSoldier": "v-sjruuqft"
+          },
+          "stale": false,
+          "added": true
+        }
+      ]
+    }
+  ],
+  "cascadeAccepted": [
+    {
+      "address": "reference:washingtonPortrait",
+      "via": "reference:washington"
+    },
+    {
+      "address": "reference:jeffersonPortrait",
+      "via": "reference:jefferson"
+    },
+    {
+      "address": "reference:jacksonPortrait",
+      "via": "reference:jackson"
+    },
+    {
+      "address": "reference:lincolnPortrait",
+      "via": "reference:lincoln"
+    },
+    {
+      "address": "reference:tRooseveltPortrait",
+      "via": "reference:tRoosevelt"
+    },
+    {
+      "address": "reference:wilsonPortrait",
+      "via": "reference:wilson"
+    },
+    {
+      "address": "reference:fRooseveltPortrait",
+      "via": "reference:fRoosevelt"
+    },
+    {
+      "address": "reference:trumanPortrait",
+      "via": "reference:truman"
+    },
+    {
+      "address": "reference:eisenhowerPortrait",
+      "via": "reference:eisenhower"
+    },
+    {
+      "address": "reference:kennedyPortrait",
+      "via": "reference:kennedy"
+    },
+    {
+      "address": "reference:johnsonPortrait",
+      "via": "reference:johnson"
+    },
+    {
+      "address": "reference:nixonPortrait",
+      "via": "reference:nixon"
+    }
+  ],
+  "handoffSummary": "登場人物22人・小道具6つ・場所20か所の参照画像です。すべて採用した見本の画調に合わせています。以降のカットは、これらを元に描きます。",
+  "handoffNotes": [
+    {
+      "address": "reference:washington",
+      "text": "大統領12人は、Wikipedia の公式肖像・記録写真（パブリックドメイン）を作品の画調に描き直しました。顔が本人に似ているかを重点的に見てください。"
+    },
+    {
+      "address": "reference:darkness",
+      "text": "最初の生成では人物が勝手に描き込まれていたので、作り直しました（成層圏・宇宙も同様）。"
+    },
+    {
+      "address": "reference:homefront",
+      "text": "最初の生成では星条旗になっていたので、出征兵士の家に掛ける「青い星の小旗」に直しました。"
+    },
+    {
+      "address": "reference:saturnV",
+      "text": "最初の生成ではロケットの下半分しか収まっていなかったので、縦長で作り直しました。"
+    },
+    {
+      "address": "reference:weldingTorch",
+      "text": "溶接トーチの形が少しバーナー寄りです。小さく映るので許容範囲と考えていますが、気になる場合はコメントでお知らせください。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kind": "comfy",
+  "workflow": "image_krea2_turbo_t2i.json",
+  "inputs": {
+    "52.text": "Modern high-end Japanese anime game cinematic key visual, sharp digital illustration with crisp thin lineart, realistic adult proportions, dramatic cel shading with hard-edged shadows, strong rim light, glowing bloom and lens-flare light effects, and a richly detailed painted background with deep saturated color and high contrast. A river valley on the American frontier at dusk: a wide river curving away between steep bluffs, tall amber grass in the foreground, a few distant cabins with glowing windows, a sky torn open by a blazing orange sunset behind towering dark teal clouds with shafts of golden light. One unnamed traveler in a long brown wool coat and wide-brimmed hat stands on a grassy rise in the left third, seen in three-quarter view from behind, coat edges lit by a hot orange rim light, holding up a small tin lantern whose flame throws a bright glowing halo across the grass. Hundreds of glowing golden embers and sparkling light particles swirl through the air around the lantern. Palette of molten gold, blazing orange, deep crimson shadow, midnight teal and ink black. Wide cinematic landscape framing.",
+    "53.width": 1920,
+    "53.height": 1088,
+    "54.seed": "__konte:seed__",
+    "54.steps": 8,
+    "58.vae_name": "qwen_image_vae.safetensors",
+    "57.clip_name": "qwen3vl_4b_fp8_scaled.safetensors",
+    "56.unet_name": "krea2_turbo_int8_convrot.safetensors"
+  },
+  "models": [
+    {
+      "filename": "krea2_turbo_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_4b_fp8_scaled.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors"
+    },
+    {
+      "filename": "qwen_image_vae.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/vae/qwen_image_vae.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "52.text": "prompt",
+    "53.width": "width",
+    "53.height": "height",
+    "54.seed": "seed",
+    "54.steps": "steps",
+    "58.vae_name": "vaeName",
+    "57.clip_name": "clipName",
+    "56.unet_name": "unetName"
+  }
+}

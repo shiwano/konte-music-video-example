@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "feedback": {
+    "animatic:shot.06": [
+      {
+        "id": "fb-ikCXfn1H",
+        "displayedVariants": {
+          "animatic:shot.06.first": "v-mBXhdXPC"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.06#composition": "c6c5f68c47a6",
+          "animatic:shot.06#stem": "4bcdb0c256c9",
+          "animatic:shot.06#songStem": "662ca0736f65"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.943,
+          "y": 0.124
+        },
+        "time": 22.4,
+        "text": "背景が変わってないのおかしくない？",
+        "createdAt": "2000-01-01T00:04:40.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.01": [
+      {
+        "id": "fb-63Alx7d1",
+        "displayedVariants": {
+          "animatic:shot.01.first": "v-rjNsniMX"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.01#composition": "459001a0fb90",
+          "animatic:shot.01#stem": "49b4debfe0e3",
+          "animatic:shot.01#songStem": "27dccfd79014"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.563,
+          "y": 0.214
+        },
+        "time": 3,
+        "text": "打ちがねの持ち方へんじゃない？　こんなもん？",
+        "createdAt": "2000-01-01T00:04:40.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-AXLwNJsf",
+        "displayedVariants": {
+          "animatic:shot.01.first": "v-FqKGegop",
+          "animatic:shot.01#composition": "v-5IANxxCD"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.01#composition": "459001a0fb90",
+          "animatic:shot.01#stem": "49b4debfe0e3",
+          "animatic:shot.01#songStem": "27dccfd79014"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.484,
+          "y": 0.479
+        },
+        "time": 0.5,
+        "text": "手前じゃない。持ち方もおかしい",
+        "createdAt": "2000-01-01T00:22:29.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.16": [
+      {
+        "id": "fb-qGhPQb1f",
+        "displayedVariants": {
+          "animatic:shot.16.first": "v-swVBq6Da"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.16#composition": "164678c6fc84",
+          "animatic:shot.16#stem": "5d6f82e7bfaa",
+          "animatic:shot.16#songStem": "a5580149679f"
+        },
+        "annotation": null,
+        "time": 49.43333333333333,
+        "text": "人がいないのに焚火が次々に灯るって絵が変じゃない？前の絵のほうがいいと思う。次々に灯るってアイデアをやめたら？",
+        "createdAt": "2000-01-01T00:07:16.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.26": [
+      {
+        "id": "fb-UOpUmdaK",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-gaxuaPj5"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "62c677620e6a",
+          "animatic:shot.26#stem": "08792b30689c",
+          "animatic:shot.26#songStem": "59f9ccb00e3b"
+        },
+        "annotation": null,
+        "time": 73.43333333333334,
+        "text": "26-27 の金の装飾枠が全部形が変わってるから、変に見える",
+        "createdAt": "2000-01-01T00:11:19.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-MNFNeSUi",
+        "displayedVariants": {
+          "animatic:shot.26.first": "v-tuCtOGOJ",
+          "reference:frameOverlay": "v-A7tlUXbJ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.26#composition": "8bb8ff4ee24c",
+          "animatic:shot.26#stem": "08792b30689c",
+          "animatic:shot.26#songStem": "59f9ccb00e3b"
+        },
+        "annotation": null,
+        "time": 73.43333333333334,
+        "text": "もうちょっとリンカーンの顔をアップにしたいな。",
+        "createdAt": "2000-01-01T00:15:47.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.51": [
+      {
+        "id": "fb-C29YoCoD",
+        "displayedVariants": {
+          "animatic:shot.51.first": "v-h8RYQAdP"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.51#composition": "ffe496012c72",
+          "animatic:shot.51#stem": "c3519db465fc",
+          "animatic:shot.51#songStem": "80aac3466094"
+        },
+        "annotation": null,
+        "time": 139.66666666666666,
+        "text": "群衆がジブリっぽい",
+        "createdAt": "2000-01-01T00:11:19.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-13MKk0kX",
+        "displayedVariants": {
+          "animatic:shot.51.first": "v-pAoHAp9B",
+          "animatic:shot.51#composition": "v-ARqTPVwa"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.51#composition": "ffe496012c72",
+          "animatic:shot.51#stem": "c3519db465fc",
+          "animatic:shot.51#songStem": "80aac3466094"
+        },
+        "annotation": null,
+        "time": 139.66666666666666,
+        "text": "ちょっとジブリっぽいな。もうちょっとリアルな感じにしてみて",
+        "createdAt": "2000-01-01T00:22:29.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.61": [
+      {
+        "id": "fb-nFQGM5vz",
+        "displayedVariants": {
+          "animatic:shot.61.first": "v-xEQNQWGI"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.61#composition": "f6656d34a0ab",
+          "animatic:shot.61#stem": "8d9b2a95dfc9",
+          "animatic:shot.61#songStem": "045e11dd4bce"
+        },
+        "annotation": {
+          "kind": "pin",
+          "x": 0.421,
+          "y": 0.608
+        },
+        "time": 170.03333333333333,
+        "text": "月に金色の火の粉はなんか変かも",
+        "createdAt": "2000-01-01T00:11:19.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.34": [
+      {
+        "id": "fb-Rt7NUikd",
+        "displayedVariants": {
+          "animatic:shot.34.first": "v-qz5MduTD",
+          "reference:frameOverlay": "v-A7tlUXbJ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.34#composition": "1b01be635968",
+          "animatic:shot.34#stem": "dc3d01323f0b",
+          "animatic:shot.34#songStem": "a748623aa723"
+        },
+        "annotation": null,
+        "time": 87.13333333333334,
+        "text": "もうちょっとリンカーンの顔をアップにしたい",
+        "createdAt": "2000-01-01T00:15:47.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.52": [
+      {
+        "id": "fb-wO89Bn57",
+        "displayedVariants": {
+          "animatic:shot.52.first": "v-F6JYSYQb",
+          "reference:frameOverlay": "v-A7tlUXbJ"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.52#composition": "967e173d867f",
+          "animatic:shot.52#stem": "31f6de1e97fa",
+          "animatic:shot.52#songStem": "a129e1159b05"
+        },
+        "annotation": null,
+        "time": 141.96666666666667,
+        "text": "もうちょっと顔をアップにしたい",
+        "createdAt": "2000-01-01T00:15:47.000Z",
+        "createdBy": "local"
+      }
+    ],
+    "animatic:shot.03": [
+      {
+        "id": "fb-9LMG5TfF",
+        "displayedVariants": {
+          "animatic:shot.03.first": "v-qqyLt1kV",
+          "animatic:shot.03#composition": "v-H1Y42VnO"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.03#composition": "51e0b6e1e737",
+          "animatic:shot.03#stem": "58721ecfbd9c",
+          "animatic:shot.03#songStem": "26ca6910b3aa"
+        },
+        "annotation": null,
+        "time": 8.266666666666667,
+        "text": "柵いる？砦重要？ なんで入口で火をたいてるの？なんか自然な感じの絵にしたい。",
+        "createdAt": "2000-01-01T00:22:29.000Z",
+        "createdBy": "local"
+      },
+      {
+        "id": "fb-thZytSKi",
+        "displayedVariants": {
+          "animatic:shot.03.first": "v-4f0iJfaR",
+          "animatic:shot.03#composition": "v-H1Y42VnO"
+        },
+        "displayedDefinitionHashes": {
+          "animatic:shot.03#composition": "51e0b6e1e737",
+          "animatic:shot.03#stem": "58721ecfbd9c",
+          "animatic:shot.03#songStem": "26ca6910b3aa"
+        },
+        "annotation": null,
+        "text": "ごめんやっぱ変更前のでいいや",
+        "time": 8.266666666666667,
+        "createdAt": "2000-01-01T00:22:54.000Z",
+        "createdBy": "local"
+      }
+    ]
+  }
+}
+

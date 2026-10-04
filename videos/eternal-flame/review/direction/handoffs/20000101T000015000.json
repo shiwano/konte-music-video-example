@@ -1,0 +1,42 @@
+{
+  "stage": "direction",
+  "summary": "曲（105 BPM・2分54秒）の小節に合わせて、61カット・4幕のショット構成を書きました。建国（イントロ〜1番）、西部開拓（サビ1）、闇の時代（2番〜サビ2〜ブリッジ）、月へ（ラストサビ〜アウトロ）の4幕です。炎を手から手へ渡す「闇の中の手」のカットが各幕の頭に戻ってくるのが、全体を貫くモチーフです。大統領12人は、すべて金の装飾枠のカットで年代順に登場します。",
+  "notes": [
+    {
+      "address": "direction:brief.hook",
+      "text": "1607年にはまだマッチがなかったので、「マッチを擦る」を「火打ち石を打つ」に直しました。"
+    },
+    {
+      "address": "direction:policy.clock",
+      "text": "採用した曲は実際に 105 BPM で演奏されているので、カットが拍とずれないよう 104 から 105 に直しました（曲そのものは作り直していません）。"
+    },
+    {
+      "address": "direction:sequence.sequences.spark",
+      "text": "イントロと1番です。浜の火花 → ランタン → 独立の夜 → 建国の朝。"
+    },
+    {
+      "address": "direction:sequence.sequences.westward",
+      "text": "サビ1です。鍛冶場 → 機関車 → 幌馬車 → ミシシッピの花火。ジャクソンで幕を閉じて、次の闇の幕へつなぎます。"
+    },
+    {
+      "address": "direction:sequence.sequences.shadow",
+      "text": "2番、サビ2、ブリッジです。奴隷制 → 涙の旅路 → 南北戦争 → 第一次大戦 → 大恐慌 → 第二次大戦。炎は消えかけ、ブリッジの窓辺の蝋燭で持ち直します。暴力は映さず、鎖、残り火、ひなげし、サーチライトといった象徴で表現します。"
+    },
+    {
+      "address": "direction:sequence.sequences.shadow.waivers.role-overweight_fade",
+      "text": "ブリッジ（8小節）が幕の28%を占めるので、konte から「余韻の部分が長すぎる」と指摘されました。ラストサビの前の静かな溜めなので、あえて削らずにこのままにしています。"
+    },
+    {
+      "address": "direction:sequence.sequences.shadow.shots.20",
+      "text": "奴隷制は、鎖と袖だけで描きます。この人物はブリッジ（41）で、鎖の切れた手首として再登場します。"
+    },
+    {
+      "address": "direction:sequence.sequences.liftoff",
+      "text": "ラストサビとアウトロです。母の蝋燭が宇宙飛行士へ渡り、点火、打ち上げ、地球、月面の足跡へ。点火のカットは \"Light the engines\" の歌詞に合わせています。最後は、足跡の上で冒頭と同じ火の粉がひとつ瞬いて終わります。"
+    },
+    {
+      "address": "direction:sequence.sequences.liftoff.shots.59",
+      "text": "ニクソン大統領が、月面の宇宙飛行士と電話で話した場面を踏まえたカットです。"
+    }
+  ]
+}

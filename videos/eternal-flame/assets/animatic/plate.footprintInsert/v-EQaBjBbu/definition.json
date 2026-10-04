@@ -1,0 +1,15 @@
+{
+  "kind": "local",
+  "operation": "crop",
+  "mediaType": "image",
+  "inputs": {
+    "image": "__konte:reference:moon__",
+    "x": 1438,
+    "y": 826,
+    "width": 748,
+    "height": 421,
+    "outWidth": 1248,
+    "outHeight": 704
+  },
+  "deterministic": true
+}

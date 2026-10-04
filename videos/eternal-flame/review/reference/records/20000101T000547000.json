@@ -1,0 +1,80 @@
+{
+  "mode": "reference-preview",
+  "stage": "reference",
+  "createdAt": "2000-01-01T00:05:47.000Z",
+  "context": {
+    "shots": [],
+    "timeline": {
+      "song": "v-ikQQnJ5B",
+      "look": "v-yDb6uMP8",
+      "washington": "v-UWyUgSgC",
+      "jefferson": "v-Sjqs6JMQ",
+      "jackson": "v-uvpzSOjK",
+      "lincoln": "v-ld95AVWf",
+      "tRoosevelt": "v-sHsCSj39",
+      "wilson": "v-agTHi4Y8",
+      "fRoosevelt": "v-giP7tkcz",
+      "truman": "v-PPNsAXW0",
+      "eisenhower": "v-yWhzXJx3",
+      "kennedy": "v-MuASQato",
+      "johnson": "v-ukohTYD9",
+      "nixon": "v-W0CopZ0y",
+      "settler": "v-R3CLwELN",
+      "minuteman": "v-afkvfAy0",
+      "blacksmith": "v-dZ4U3YDa",
+      "cherokeeElder": "v-aJPaQasv",
+      "freedomSeeker": "v-iA6Qwim6",
+      "unionSoldier": "v-BdYlRnAV",
+      "confederateSoldier": "v-Pw4qksfx",
+      "dustMother": "v-P06TlyQF",
+      "factoryWoman": "v-IdhWwilr",
+      "astronaut": "v-3qPoXdwP",
+      "vocalist": "v-8nhwDn0n",
+      "lantern": "v-wuCgSAjU",
+      "fireSteel": "v-mK7ClKOm",
+      "candle": "v-6vilmPxC",
+      "parchment": "v-d6HATckc",
+      "kerosene": "v-YYnMAxGX",
+      "weldingTorch": "v-gcvhXlVg",
+      "saturnV": "v-3uW9Y8at",
+      "darkness": "v-5pQEA8Cj",
+      "shore": "v-wBkrUI96",
+      "bostonNight": "v-FFFg2dQo",
+      "assemblyHall": "v-0AMLQrBI",
+      "gilded": "v-2gkdzl91",
+      "forge": "v-B0DFGAXj",
+      "prairie": "v-qENhkkdz",
+      "mississippi": "v-AW6rbule",
+      "plantation": "v-VClcNCSi",
+      "trail": "v-tjjiYbw6",
+      "riverCamps": "v-sWFAkMY0",
+      "dustFarm": "v-TgyNFeM0",
+      "warfront": "v-jKvVKCzY",
+      "factory": "v-ljlFwTeo",
+      "atlantic": "v-hMnarTIk",
+      "safehouse": "v-qO6oUMgj",
+      "homefront": "v-9Wi1pIMG",
+      "launchPad": "v-czcDNmI8",
+      "beach": "v-HBrEWl32",
+      "capsule": "v-tb9oYA3u",
+      "upperSky": "v-kJaLQu6U",
+      "space": "v-WcQVA1jM",
+      "moon": "v-OdiYL7pf"
+    }
+  },
+  "decisions": [
+    {
+      "address": "reference:fireSteel",
+      "variantId": "v-mK7ClKOm",
+      "status": "accepted",
+      "feedback": []
+    }
+  ],
+  "handoffSummary": "01の打ち金を正しく描くための、打ち金・火打ち石・炭布の見本です。",
+  "handoffNotes": [
+    {
+      "address": "reference:fireSteel",
+      "text": "実物と同じC字形（両端が渦巻き状に巻いた鋼の帯）になりました。3枚とも打ち金が大きめに描かれていますが、カットでは大きさを約10cmと指示します。形が良いと思う1枚を採用してください。"
+    }
+  ]
+}

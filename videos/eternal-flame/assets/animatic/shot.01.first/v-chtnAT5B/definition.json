@@ -1,0 +1,68 @@
+{
+  "kind": "comfy",
+  "workflow": "image_minimax_h3_r2i.json",
+  "inputs": {
+    "21.image": "__konte:reference:shore__",
+    "22.image": "__konte:reference:settler__",
+    "23.image": "__konte:reference:fireSteel__",
+    "10.prompt": "subject_definitions: <Subject 1> is the 1607 Virginia shore in <Picture 1>, its sand and pre-dawn darkness.\n<Subject 2> is the settler woman in a linen coif in <Picture 2>: freckled sun-browned skin, an undyed linen coif, a soot-stained brown wool gown with rolled sleeves.\n<Subject 3> is the fire-starting kit in <Picture 3>: the C-shaped steel striker, the grey flint chip and the black char cloth.\n\nsummary: [reference generation] Close on the settler woman's hands raising the steel above the flint in the dark.\n\nretention_analysis: <Subject 1> (appears in [Shot 1]): weak_reference - only the dark sand and the night air carry over; the framing is new.\n<Subject 2> (appears in [Shot 1]): partially_preserved - her hands, freckled skin and rolled brown wool sleeves carry over; her face is out of frame.\n<Subject 3> (appears in [Shot 1]): partially_preserved - the shape of the C-shaped steel striker, the flint chip and the char cloth; the striker is drawn at the small size written here.\n\ndetailed_description: 2D-animated. Modern high-end Japanese anime game key visual: crisp thin lineart, dramatic cel shading with hard-edged shadows, strong rim light, glowing bloom, deep saturated color. [Shot 1] Total darkness at night, only the settler woman in a linen coif's two hands in the frame, in rolled brown wool sleeves, held up in the air at chest height against the dark night, the sand far below and out of focus. Her left hand at frame left holds the grey flint chip with its sharp edge pointing toward frame right; a palm-sized square of black char cloth with pinked edges is laid flat on top of the flint, on the side facing the camera, covering most of the flint so the black cloth is the nearest, largest thing in her hand, her thumb pressing it down onto the stone, only the flint's sharp grey edge sticking out from under the cloth at its right side. Her right hand at frame right wears the C-shaped steel striker like a knuckle-duster: her four fingers pass through the open inside of the C from behind, so the C's curved back lies flat across the front of her curled fingers, facing the flint, and its two spiral ends rest against the back of her hand on either side; the striker is small, no wider than her palm, raised a few centimetres above and to the right of the flint's exposed edge, ready to scrape down across it. Both hands are faintly rim-lit in deep blue, the only light in the frame.\n\noverall_soundscape: N/A\n\nnon_diegetic_music: N/A",
+    "10.width": 1248,
+    "10.height": 704,
+    "10.ref_image_size": "max",
+    "11.noise_seed": "__konte:seed__",
+    "13.steps": 20,
+    "1.unet_name": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+    "2.clip_name": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+    "3.vae_name": "minimax_h3_video_vae_int8_convrot.safetensors",
+    "4.vae_name": "minimax_h3_audio_vae_fp32.safetensors",
+    "10.length": 5,
+    "17.batch_index": 0
+  },
+  "prunedNodes": [
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29"
+  ],
+  "models": [
+    {
+      "filename": "minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors"
+    },
+    {
+      "filename": "qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/text_encoders/qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors"
+    },
+    {
+      "filename": "minimax_h3_video_vae_int8_convrot.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_video_vae_int8_convrot.safetensors"
+    },
+    {
+      "filename": "minimax_h3_audio_vae_fp32.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/MiniMax-H3/resolve/main/vae/minimax_h3_audio_vae_fp32.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "21.image": "image1",
+    "22.image": "image2",
+    "23.image": "image3",
+    "10.prompt": "prompt",
+    "10.width": "width",
+    "10.height": "height",
+    "10.ref_image_size": "refImageSize",
+    "11.noise_seed": "seed",
+    "13.steps": "steps",
+    "1.unet_name": "unetName",
+    "2.clip_name": "clipName",
+    "3.vae_name": "vaeName",
+    "4.vae_name": "audioVaeName",
+    "10.length": "length",
+    "17.batch_index": "frameIndex"
+  }
+}

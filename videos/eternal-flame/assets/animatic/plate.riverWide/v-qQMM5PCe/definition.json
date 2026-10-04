@@ -1,0 +1,15 @@
+{
+  "kind": "local",
+  "operation": "crop",
+  "mediaType": "image",
+  "inputs": {
+    "image": "__konte:reference:mississippi__",
+    "x": 140,
+    "y": 0,
+    "width": 2216,
+    "height": 1248,
+    "outWidth": 1248,
+    "outHeight": 704
+  },
+  "deterministic": true
+}

@@ -1,0 +1,58 @@
+{
+  "stage": "direction",
+  "summary": "曲を先に作るため、まず作品の骨子（ブリーフ）・書き出し設定・テンポ・歌詞をご確認ください。ショット構成は曲が決まってから、曲の拍に合わせて書きます。",
+  "notes": [
+    {
+      "address": "direction:sequence",
+      "text": "ショットはまだ空です（曲の採用後に書きます）。全体の型は mood-piece（雰囲気→モチーフ→変奏→頂点→余韻）、残したい感情は awe です。"
+    },
+    {
+      "address": "direction:brief.logline",
+      "text": "案A「受け継がれる炎」をそのまま一文にしました。"
+    },
+    {
+      "address": "direction:brief.hook",
+      "text": "冒頭2秒。闇の中でマッチを擦るところから始めます。"
+    },
+    {
+      "address": "direction:brief.look",
+      "text": "Fate 調のリアル寄りアニメ、大統領は金の装飾枠、時代ごとの色分けです。"
+    },
+    {
+      "address": "direction:brief.outOfScope",
+      "text": "お話しした「やらないこと」です。"
+    },
+    {
+      "address": "direction:brief.tolerances",
+      "text": "今のところ空です。"
+    },
+    {
+      "address": "direction:policy.format",
+      "text": "16:9・1280×720、アップスケールなしです。"
+    },
+    {
+      "address": "direction:policy.lang",
+      "text": "英語ボーカルに合わせて、画面に出す文字も英語にしています。"
+    },
+    {
+      "address": "direction:policy.fonts",
+      "text": "タイトルなどの英字用に、碑文風のローマン体 Cinzel を選びました。"
+    },
+    {
+      "address": "direction:policy.speech",
+      "text": "台詞・ナレーションなし（歌のみ）です。"
+    },
+    {
+      "address": "direction:policy.clock",
+      "text": "104 BPM・4/4 拍子です。生成モデルが英語曲で狙ったテンポを最も安定して出せたのが 104 BPM 付近だったので、この値にしました。"
+    },
+    {
+      "address": "direction:characters.vocalist",
+      "text": "歌い手です。画面には映りません。"
+    },
+    {
+      "address": "direction:lyrics",
+      "text": "Verse 1 は建国の始まり、Chorus は「炎を運べ」というリフレイン、Verse 2 は闇の時代（奴隷制・涙の旅路・南北戦争・大恐慌）、Chorus 2 は大戦、Bridge は消えかけの蝋燭、ラスト Chorus はロケットの点火です。Outro は冒頭の一行に戻り、月面の足跡で締めます（\"one small step\" への目配せです）。"
+    }
+  ]
+}

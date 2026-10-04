@@ -1,0 +1,45 @@
+{
+  "kind": "comfy",
+  "workflow": "image_z_image_base.json",
+  "inputs": {
+    "96.text": "Full-length documentary photograph, standing straight and facing the camera in a relaxed three-quarter view, head to boots in frame, against a plain warm-grey studio wall under soft even daylight. A plain-featured Dust Bowl farm mother of the 1930s in her late thirties, a gaunt square face with hollow cheeks, fine lines at the eyes and mouth, sun-weathered skin, worried but steady hazel eyes, brown hair pinned back in a low bun with loose strands, a faded blue small-flower print cotton dress, bony work-worn hands.",
+    "103.text": "blurry, extra fingers, watermark, text",
+    "97.width": 896,
+    "97.height": 1344,
+    "104.seed": "__konte:seed__",
+    "104.steps": 25,
+    "104.cfg": 4,
+    "98.vae_name": "ae.safetensors",
+    "99.clip_name": "qwen_3_4b.safetensors",
+    "102.unet_name": "z_image_bf16.safetensors"
+  },
+  "models": [
+    {
+      "filename": "ae.safetensors",
+      "type": "VAE",
+      "url": "https://huggingface.co/Comfy-Org/z_image/resolve/main/split_files/vae/ae.safetensors"
+    },
+    {
+      "filename": "qwen_3_4b.safetensors",
+      "type": "clip",
+      "url": "https://huggingface.co/Comfy-Org/z_image/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors"
+    },
+    {
+      "filename": "z_image_bf16.safetensors",
+      "type": "diffusion_model",
+      "url": "https://huggingface.co/Comfy-Org/z_image/resolve/main/split_files/diffusion_models/z_image_bf16.safetensors"
+    }
+  ],
+  "inputLabels": {
+    "96.text": "prompt",
+    "103.text": "negativePrompt",
+    "97.width": "width",
+    "97.height": "height",
+    "104.seed": "seed",
+    "104.steps": "steps",
+    "104.cfg": "cfg",
+    "98.vae_name": "vaeName",
+    "99.clip_name": "clipName",
+    "102.unet_name": "unetName"
+  }
+}
